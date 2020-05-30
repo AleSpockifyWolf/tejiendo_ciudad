@@ -1,17 +1,52 @@
 /****************************************************
 {
-    "guid": "9c36adc1-7fb5-4d5b-83b4-90356a46061a",
-    "name": "Angela Barton",
-    "is_active": true,
-    "company": "Magnafone",
-    "address": "178 Howard Place, Gulf, Washington, 702",
-    "registered": "2009-11-07T08:53:22 +08:00",
-    "latitude": 19.793713,
-    "longitude": 86.513373,
-    "tags": [
-        "enim",
-        "aliquip",
-        "qui"
+    "id": "",
+    "type": "Metro"
+    "name": "Chilpancingo",
+    "line": "Línea 9",     
+    "latitude": 19.40575613,
+    "longitude": -99.1683054,
+    "services": [
+        "rampas":[{
+            "evaluacion":"0.0",
+            "activo":"0",
+            "Comentarios":"loremipsum"
+        }],
+        "pasamanos":[{
+            "evaluacion":"0.0",
+            "activo":"0",
+            "Comentarios":"loremipsum"
+        }],
+        "wc":[{
+            "evaluacion":"0.0",
+            "activo":"0",
+            "Comentarios":"loremipsum"
+        }],
+        "iluminacion":[{
+            "evaluacion":"0.0",
+            "activo":"0",
+            "Comentarios":"loremipsum"
+        }],
+        "puente_peatonal":[{
+            "evaluacion":"0.0",
+            "activo":"0",
+            "Comentarios":"loremipsum"
+        }],
+        "elevadores":[{
+            "evaluacion":"0.0",
+            "activo":"0",
+            "Comentarios":"loremipsum"
+        }],
+        "escaleras_electricas":[{
+            "evaluacion":"0.0",
+            "activo":"0",
+            "Comentarios":"loremipsum"
+        }],
+        "placas_guias":[{
+            "evaluacion":"0.0",
+            "activo":"0",
+            "Comentarios":"loremipsum"
+        }],
     ]
 }
 We store these documents in a table named api, in a jsonb column named jdoc. If a GIN index is created on this column, queries like the following can make use of the index:
