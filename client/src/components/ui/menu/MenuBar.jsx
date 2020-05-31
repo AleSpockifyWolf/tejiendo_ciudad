@@ -6,7 +6,6 @@ import SearchBar from "../../common/formfields/SearchBar";
 import Heading from "../../common/headings/Heading";
 import FieldHeading from "../../common/headings/FieldHeading";
 import SimpleBlackButton from "../../common/buttons/SimpleBlackButton";
-import ResultCard from "../../common/cards/ResultCard";
 
 const MenuBar = (props) => {
   return (
@@ -23,13 +22,7 @@ const MenuBar = (props) => {
       </section>
       <section className="menubar-results">
         <FieldHeading text="Resultados de la búsqueda" />
-        <div className="menubar-results-list">
-          {props.places === null ? (
-            <p>no data</p>
-          ) : (
-            props.places.map((place) => <ResultCard key={place._id} />)
-          )}
-        </div>
+        <div className="menubar-results-list">{props.cards}</div>
       </section>
     </div>
   );
