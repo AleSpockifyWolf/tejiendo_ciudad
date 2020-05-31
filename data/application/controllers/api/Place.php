@@ -42,7 +42,9 @@ class Place extends REST_Controller {
 	* http://localhost/2020/tejiendo_ciudad/data/index.php/api/place : Get => all
 	* http://localhost/2020/tejiendo_ciudad/data/index.php/api/place/2 : Get => 1 record
 	*/
-	public function index_get($id = 0) {
+	public function index_get($id = 0, $h) {
+		print_r($id); exit();
+		print_r($h);
 		if(!empty($id)){
 			$data = $this->db->get_where("place", ['id' => $id])->row_array();
 		}else{

@@ -64,6 +64,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		box-shadow: 0 0 8px #D0D0D0;
 	}
 	</style>
+	<script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
 </head>
 <body>
 
@@ -84,6 +85,39 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 	<p class="footer">Page rendered in <strong>{elapsed_time}</strong> seconds. <?php echo  (ENVIRONMENT === 'development') ?  'CodeIgniter Version <strong>' . CI_VERSION . '</strong>' : '' ?></p>
 </div>
+
+<script>
+$.ajax({
+	dataType: 'json',
+	url: 'https://accessibility-cloud.freetls.fastly.net/place-infos?appToken=2ba80de6c9f9cb5ba4a6a9fe11f61e60',
+	data: { latitude: 19.40575613, longitude: -99.1683054, accuracy: 10000 },
+	headers: {
+	'Accept': 'application/json'
+	}
+})
+.done(console.log)
+.error(console.error);
+</script>
+<div id="accessibility-cloud-results"></div>
+<script type="text/javascript">
+  window.onAccessibilityCloudLoaded = function (AccessibilityCloud) {
+    var element = document.querySelector('#accessibility-cloud-results');
+    AccessibilityCloud.render(element, {
+      token: '2ba80de6c9f9cb5ba4a6a9fe11f61e60',
+        locale: 'en_EU',
+        requestParameters: {
+          latitude: 19.40575613, // <-- Replace these coordinates with your own
+          longitude: -99.1683054,
+          accuracy: 10000, // <-- Search radius, in meters
+          limit: 20, // <-- Maximal number of returned results
+          // The following line displays only places accessible by wheelchair. Remove it to return all places.
+          filter: 'at-least-partially-accessible-by-wheelchair',
+        },
+    });
+  };
+</script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/sozialhelden/accessibility-cloud-js@3.2.1/build/example/accessibility.cloud-3.2.1-2350f78a.css">
+<script type="text/javascript" async defer src="https://cdn.jsdelivr.net/gh/sozialhelden/accessibility-cloud-js@3.2.1/build/example/accessibility.cloud-3.2.1-21a6710d.min.js"></script>
 
 </body>
 </html>
