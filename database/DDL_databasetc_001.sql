@@ -1,8 +1,8 @@
-Create database _db_tc_001;
+Create database db_tc_001;
 
 CREATE SCHEMA s_registro
     AUTHORIZATION postgres;
-CREATE SCHEMA s_consulta
+CREATE SCHEMA s_busqueda
     AUTHORIZATION postgres;
 CREATE SCHEMA s_evaluacion
     AUTHORIZATION postgres;
