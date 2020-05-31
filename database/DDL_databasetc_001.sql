@@ -9,13 +9,10 @@ CREATE SCHEMA s_evaluacion
 
 CREATE TABLE s_busqueda.tb_transporte
 (
-    tdt_id integer NOT NULL,
+    tdt_id serial NOT NULL,
     tdt_accesibilidad json, /*'{"tipo": "", "evaluacion": 0...5, "":true}'::json;'*/
-    tdt_location json,
     PRIMARY KEY (tdt_id)
 );
-
-CREATE INDEX idx_tbt ON s_busqueda.tb_transporte USING gin (tdt_accesibilidad);
 
 ALTER TABLE s_busqueda.tb_transporte
     OWNER to postgres;
