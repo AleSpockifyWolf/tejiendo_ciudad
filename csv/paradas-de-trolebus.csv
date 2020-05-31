@@ -1,0 +1,597 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,trip_heads,agency_id,route_long
+18052,,ALFREDO CHAVERO,EJE Central,19.41750898,-99.14350708,Central de Autobuses del Sur - Central de Autobuses del Norte,STE,Corredor Cero Emisiones Eje Central
+18066,,MASSENET,EJE Central,19.46411432,-99.13742467,Central de Autobuses del Sur - Central de Autobuses del Norte,STE,Corredor Cero Emisiones Eje Central
+17702,,LAGO GARDA,Rosario Chapultepec,19.44910057,-99.18208925,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+18178,,Ma. LUISA STAMPA ORTIGOZA,Circuitio Politecnico,19.50511392,-99.14318246,Terminal Zacatenco,STE,Circuito Politécnico
+18136,,DIVISIÓN DEL NORTE_1_2,EJE 7,19.36622526,-99.15590286,Metro Mixcoac - San Andrés Tetepilco,STE,Corredor Cero Emisiones Eje 7 - 7A Sur
+18171,,EDIF. 6 ESIQIE,Circuitio Politecnico,19.50087301,-99.1358363,Terminal Zacatenco,STE,Circuito Politécnico
+15110,,DR. LUCIO,,19.41582987,-99.15243074,Metro Velódromo - Metro Chapultepec,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+17861,,GRAL. VILLADA,San Felipe Metro Hidalgo,19.48229833,-99.11438745,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+18179,,FTE. ESCOM,Circuitio Politecnico,19.50581652,-99.14553879,Terminal Zacatenco,STE,Circuito Politécnico
+17921,,CEYLÁN,Rosario Puerto Aereo,19.47275933,-99.16154251,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17705,,CALZ. MÉXICO - TACUBA,Rosario Chapultepec,19.4558593,-99.18065429,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+17767,,CLAVERÍA,Rosario Chapultepec,19.46501982,-99.17758745,Metro El Rosario - Metro Chapultepec,STE,Metro El Rosario - Metro Chapultepec
+17990,,AV. JARDÍN,Rosario Puerto Aereo,19.47376844,-99.1586695,Metro Blvd. Puerto Aéreo - Metro El Rosario,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17889,,AV. VILLA DE AYALA,San Felipe Metro Hidalgo,19.488432,-99.06875308,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+17811,,AV. FFCC HIDALGO,San Felipe Metro Hidalgo,19.48225547,-99.10539326,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+17774,,AV. MARINA NACIONAL_1,Rosario Chapultepec,19.44894815,-99.18236751,Metro El Rosario - Metro Chapultepec,STE,Metro El Rosario - Metro Chapultepec
+17919,,PLAN DE SAN LUIS_1_2,Rosario Puerto Aereo,19.47122508,-99.16632056,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+18074,,PONIENTE 128_1,EJE Central,19.48697147,-99.1442404,Central de Autobuses del Norte - Central de Autobuses del Sur,STE,Corredor Cero Emisiones Eje Central
+18081,,FELIPE VILLANUEVA,EJE Central,19.46380449,-99.13763091,Central de Autobuses del Norte - Central de Autobuses del Sur,STE,Corredor Cero Emisiones Eje Central
+17703,,FELIPE CARRILLO PUERTO,Rosario Chapultepec,19.45091678,-99.18181108,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+17977,,NORTE 62-A (AV. CONGRESO DE LA UNIÓN),Rosario Puerto Aereo,19.46366745,-99.1115212,Metro Blvd. Puerto Aéreo - Metro El Rosario,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17986,,NORTE 7-A (CALZ. VALLEJO),Rosario Puerto Aereo,19.47316719,-99.14507747,Metro Blvd. Puerto Aéreo - Metro El Rosario,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17926,,REAL DEL MONTE,Rosario Puerto Aereo,19.46985952,-99.13224578,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17841,,TERMINAL METRO HIDALGO,San Felipe Metro Hidalgo,19.43778692,-99.1459108,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+15091,,TERMINAL TASQUEÑA,,19.34363225,-99.14050817,Tasqueña - Xochimilco,STE,Tasqueña - Xochimilco
+18185,,WILFRIDO MASSIEU,Circuitio Politecnico,19.49905973,-99.14806757,Terminal Zacatenco,STE,Circuito Politécnico
+18035,,AJUSCO,EJE Central,19.35907295,-99.15173778,Central de Autobuses del Sur - Central de Autobuses del Norte,STE,Corredor Cero Emisiones Eje Central
+15137,,5 DE FEBRERO_1_3,,19.41370194,-99.13706332,Metro Chapultepec - Metro Velódromo,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+36112,,METRO M. A. DE QUEVEDO,San Francisco,19.34619302,-99.18094397,San Francisco Culhuacán - Ciudad Universitaria,STE,San Francisco Culhuacán - Ciudad Universitaria
+17943,,METRO OCEANÍA_1,Rosario Puerto Aereo,19.44488795,-99.08704654,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17836,,MOSQUETA (M. GARIBALDI),San Felipe Metro Hidalgo,19.44468739,-99.13877343,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+17923,,CENTRAL SUR,Rosario Puerto Aereo,19.47299524,-99.15131092,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17907,,CENTÉOTL,Rosario Puerto Aereo,19.48845042,-99.19337869,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+18148,,BÉLGICA,EJE 7,19.36848951,-99.14492141,San Andrés Tetepilco - Metro Mixcoac,STE,Corredor Cero Emisiones Eje 7 - 7A Sur
+15097,,JAMAICA_1_2,,19.41076573,-99.12154041,Metro Velódromo - Metro Chapultepec,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+18026,,AV. DE LOS ÁNGELES,Rosario Puerto Aereo,19.50186125,-99.19783115,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+17925,,AUER,Rosario Puerto Aereo,19.47213545,-99.14206266,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+36088,,ESCUELA NAVAL MILITAR,San Francisco,19.33749715,-99.12296975,Ciudad Universitaria - San Francisco Culhuacán,STE,San Francisco Culhuacán - Ciudad Universitaria
+36076,,FERNÁNDEZ LEAL,San Francisco,19.3439052,-99.15943265,Ciudad Universitaria - San Francisco Culhuacán,STE,San Francisco Culhuacán - Ciudad Universitaria
+17825,,EXCÉLSIOR,San Felipe Metro Hidalgo,19.47223699,-99.12362238,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+18172,,EDIF. 8 ESIQIE,Circuitio Politecnico,19.50213201,-99.13559401,Terminal Zacatenco,STE,Circuito Politécnico
+15146,,FERNANDO IGLESIAS_1_3,,19.41293877,-99.10621822,Metro Chapultepec - Metro Velódromo,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+17915,,SALÓNICA_1,Rosario Puerto Aereo,19.47106324,-99.17937756,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17827,,ROBLES DOMÍNGUEZ,San Felipe Metro Hidalgo,19.46855614,-99.12500326,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+17823,,RÍO BLANCO,San Felipe Metro Hidalgo,19.47723854,-99.12173231,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+15147,,RETORNO 39,,19.41215348,-99.10325456,Metro Chapultepec - Metro Velódromo,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+17828,,FERROCARRIL INDUSTRIAL (DONIZETTI),San Felipe Metro Hidalgo,19.46502079,-99.1263306,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+18085,,FLORES MAGÓN_1_3,EJE Central,19.45015806,-99.13847764,Central de Autobuses del Norte - Central de Autobuses del Sur,STE,Corredor Cero Emisiones Eje Central
+17759,,HIDALGO_1_4,Rosario Chapultepec,19.48160236,-99.18868478,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17942,,FORMOSA,Rosario Puerto Aereo,19.44682527,-99.08828352,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+36095,,PASEO DE LOS TROJES,San Francisco,19.33873218,-99.12687063,San Francisco Culhuacán - Ciudad Universitaria,STE,San Francisco Culhuacán - Ciudad Universitaria
+17803,,PUERTO DE ACAPULCO,San Felipe Metro Hidalgo,19.47432266,-99.0845126,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+17956,,CLÍNICA 14 IMSS,Rosario Puerto Aereo,19.42290748,-99.09485579,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+18097,,DR.  ACEVES,EJE Central,19.41482039,-99.14396416,Central de Autobuses del Norte - Central de Autobuses del Sur,STE,Corredor Cero Emisiones Eje Central
+15108,,DR. VÉRTIZ_1,,19.41550948,-99.14778098,Metro Velódromo - Metro Chapultepec,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+15143,,CUCURPE,,19.41384505,-99.11794751,Metro Chapultepec - Metro Velódromo,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+17979,,NORTE 48,Rosario Puerto Aereo,19.46572401,-99.1174044,Metro Blvd. Puerto Aéreo - Metro El Rosario,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+18016,,SORIANA EL ROSARIO,Rosario Puerto Aereo,19.5028827,-99.20512676,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+15118,,SONORA_1_4,,19.41609142,-99.16988359,Metro Velódromo - Metro Chapultepec,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+36092,,TERMINAL SAN FRANCISCO,San Francisco,19.33865526,-99.1180632,San Francisco Culhuacán - Ciudad Universitaria,STE,San Francisco Culhuacán - Ciudad Universitaria
+18012,,TIERRA INDÓMITA,Rosario Puerto Aereo,19.49791701,-99.20060992,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+17849,,TELURIO,San Felipe Metro Hidalgo,19.45883966,-99.1271343,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+30169,,TERMINAL ZACATENCO_1,,19.49529757,-99.1360116,Terminal Zacatenco,STE,Circuito Politécnico
+18090,,VICTORIA_1_5,EJE Central,19.43135293,-99.14142507,Central de Autobuses del Norte - Central de Autobuses del Sur,STE,Corredor Cero Emisiones Eje Central
+18027,,TIERRA NEGRA,Rosario Puerto Aereo,19.50058697,-99.19904351,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+17729,,TIERRA NUEVA,Rosario Chapultepec,19.50018243,-99.20282006,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+17690,,VÍCTOR HUGO,Rosario Chapultepec,19.42710291,-99.1774668,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+17905,,ZEMPOALTECAS,Rosario Puerto Aereo,19.49183863,-99.19650078,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17864,,CASA DEL PEREGRINO JUAN DIEGO_1,San Felipe Metro Hidalgo,19.48327076,-99.1097865,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+17924,,CALZ. VALLEJO,Rosario Puerto Aereo,19.47298512,-99.1463542,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17994,,AV. NUECES,Rosario Puerto Aereo,19.47060853,-99.16922707,Metro Blvd. Puerto Aéreo - Metro El Rosario,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17839,,AV. HIDALGO,San Felipe Metro Hidalgo,19.43711772,-99.14399777,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+18010,,AV. SAUCES,Rosario Puerto Aereo,19.49262752,-99.19657588,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+18044,,CORRESPONDENCIA,EJE Central,19.39238226,-99.14632863,Central de Autobuses del Sur - Central de Autobuses del Norte,STE,Corredor Cero Emisiones Eje Central
+17898,,CULTURA NÁHUATL,Rosario Puerto Aereo,19.5091528,-99.20513749,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17927,,CONSTANTINO_1,Rosario Puerto Aereo,19.46897948,-99.12870526,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+15133,,DR. ANDRADE_1_2,,19.41446337,-99.1470329,Metro Chapultepec - Metro Velódromo,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+17868,,AV. EDUARDO MOLINA,San Felipe Metro Hidalgo,19.47901328,-99.09851575,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+17859,,5 DE FEBRERO_1_5,San Felipe Metro Hidalgo,19.47978932,-99.11558956,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+17870,,ARCOS DE ARAGÓN,San Felipe Metro Hidalgo,19.47749811,-99.09482211,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+18003,,AHUACATITLA,Rosario Puerto Aereo,19.48427322,-99.18385148,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+18158,,ANICETO ORTEGA,EJE 7,19.3711488,-99.16685655,San Andrés Tetepilco - Metro Mixcoac,STE,Corredor Cero Emisiones Eje 7 - 7A Sur
+15132,,DR. VÉRTIZ_1_2,,19.41456851,-99.14857037,Metro Chapultepec - Metro Velódromo,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+18110,,MUNICIPIO LIBRE_1,EJE Central,19.36952829,-99.15011445,Central de Autobuses del Norte - Central de Autobuses del Sur,STE,Corredor Cero Emisiones Eje Central
+18109,,MIGUEL LAURENT,EJE Central,19.37314285,-99.14946729,Central de Autobuses del Norte - Central de Autobuses del Sur,STE,Corredor Cero Emisiones Eje Central
+18167,,TERMINAL ZACATENCO,Circuitio Politecnico,19.49538859,-99.13621545,Terminal Zacatenco,STE,Circuito Politécnico
+15085,,REGISTRO FEDERAL,,19.31790702,-99.13878439,Tasqueña - Xochimilco,STE,Tasqueña - Xochimilco
+18073,,INSTITUTO DEL PETRÓLEO_1_2,EJE Central,19.48856483,-99.14485584,Central de Autobuses del Norte - Central de Autobuses del Sur,STE,Corredor Cero Emisiones Eje Central
+36115,,HERMANOS VÁZQUEZ_1,San Francisco,19.33919786,-99.18241382,San Francisco Culhuacán - Ciudad Universitaria,STE,San Francisco Culhuacán - Ciudad Universitaria
+18064,,GRANADOS,EJE Central,19.45690147,-99.13776046,Central de Autobuses del Sur - Central de Autobuses del Norte,STE,Corredor Cero Emisiones Eje Central
+18086,,LUNA_1,EJE Central,19.44794521,-99.13880823,Central de Autobuses del Norte - Central de Autobuses del Sur,STE,Corredor Cero Emisiones Eje Central
+18189,,JUAN DE DIOS BÁTIZ,Circuitio Politecnico,19.5062123,-99.14723433,Terminal Zacatenco,STE,Circuito Politécnico
+15088,,LA VIRGEN_1,,19.33170123,-99.1406524,Tasqueña - Xochimilco,STE,Tasqueña - Xochimilco
+17808,,FRENTE A OFFICE DEPOT,San Felipe Metro Hidalgo,19.47781381,-99.09439952,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+18211,,FTE. A ENTRADA A EL QUESO,Circuitio Politecnico,19.49493533,-99.13497884,Terminal Zacatenco,STE,Circuito Politécnico
+18196,,FTE. EDIF. 8 ESIQIE,Circuitio Politecnico,19.5021598,-99.13580637,Terminal Zacatenco,STE,Circuito Politécnico
+15093,,FERNANDO IGLESIAS_1_2,,19.4083802,-99.1089888,Metro Velódromo - Metro Chapultepec,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+18007,,PRIV. DE AQUILES SERDÁN,Rosario Puerto Aereo,19.48775254,-99.19194102,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+17862,,PLAZA MARIANA - GAM,San Felipe Metro Hidalgo,19.48358292,-99.11387581,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+17876,,PUERTO PROGRESO,San Felipe Metro Hidalgo,19.47385614,-99.08292531,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+17710,,PONIENTE 62,Rosario Chapultepec,19.46659118,-99.1770751,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+18135,,PETÉN,EJE 7,19.36641799,-99.15712636,Metro Mixcoac - San Andrés Tetepilco,STE,Corredor Cero Emisiones Eje 7 - 7A Sur
+17954,,ORIENTE 180,Rosario Puerto Aereo,19.42629706,-99.09500599,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17959,,NORTE 13_1,Rosario Puerto Aereo,19.42523922,-99.09311976,Metro Blvd. Puerto Aéreo - Metro El Rosario,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17947,,NORTE 37,Rosario Puerto Aereo,19.43662591,-99.09172299,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17871,,NORTE 94,San Felipe Metro Hidalgo,19.47688643,-99.0928997,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+18184,,OTAVALO,Circuitio Politecnico,19.4952826,-99.14657982,Terminal Zacatenco,STE,Circuito Politécnico
+15103,,5 DE FEBRERO_1_2,,19.41447243,-99.13701073,Metro Velódromo - Metro Chapultepec,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+17846,,CANAL DEL NORTE (MANUEL GONZÁLEZ II),San Felipe Metro Hidalgo,19.45272671,-99.13094897,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+17992,,CERDEÑA,Rosario Puerto Aereo,19.47263091,-99.16288189,Metro Blvd. Puerto Aéreo - Metro El Rosario,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+15129,,CUAUHTÉMOC_1_4,,19.41492921,-99.15503721,Metro Chapultepec - Metro Velódromo,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+17982,,CALZ. DE LOS MISTERIOS_1,Rosario Puerto Aereo,19.46829014,-99.12477776,Metro Blvd. Puerto Aéreo - Metro El Rosario,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17981,,CALZ. DE GUADALUPE_1,Rosario Puerto Aereo,19.46782632,-99.12333012,Metro Blvd. Puerto Aéreo - Metro El Rosario,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17790,,EDO. DE TABASCO,San Felipe Metro Hidalgo,19.48618067,-99.06976753,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+17884,,EDO. SINALOA,San Felipe Metro Hidalgo,19.48205887,-99.07403154,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+17888,,EDO. TABASCO,San Felipe Metro Hidalgo,19.48591398,-99.06974496,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+18128,,GABRIEL MANCERA,EJE 7,19.37143789,-99.16873455,Metro Mixcoac - San Andrés Tetepilco,STE,Corredor Cero Emisiones Eje 7 - 7A Sur
+18021,,HIDRÓGENO,Rosario Puerto Aereo,19.51008318,-99.2020154,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+36065,,AV. COPILCO,San Francisco,19.33716304,-99.18438792,Ciudad Universitaria - San Francisco Culhuacán,STE,San Francisco Culhuacán - Ciudad Universitaria
+17991,,AV. CEYLÁN,Rosario Puerto Aereo,19.47317731,-99.16100979,Metro Blvd. Puerto Aéreo - Metro El Rosario,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+36106,,AURORA,San Francisco,19.34519084,-99.16752219,San Francisco Culhuacán - Ciudad Universitaria,STE,San Francisco Culhuacán - Ciudad Universitaria
+18005,,ANDALUCÍA,Rosario Puerto Aereo,19.48501157,-99.18872237,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+18188,,AV. CENTRAL,Circuitio Politecnico,19.50558114,-99.14892081,Terminal Zacatenco,STE,Circuito Politécnico
+15145,,ANTONIO PEÑA Y REYES,,19.41319773,-99.10875185,Metro Chapultepec - Metro Velódromo,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+17773,,FELIPE CARRILLO PUERTO_1,Rosario Chapultepec,19.45136217,-99.18199521,Metro El Rosario - Metro Chapultepec,STE,Metro El Rosario - Metro Chapultepec
+18190,,ESCOM,Circuitio Politecnico,19.50557144,-99.14566103,Terminal Zacatenco,STE,Circuito Politécnico
+18089,,INDEPENDENCIA_1,EJE Central,19.43291304,-99.14118423,Central de Autobuses del Norte - Central de Autobuses del Sur,STE,Corredor Cero Emisiones Eje Central
+18040,,INDEPENDENCIA,EJE Central,19.37876401,-99.148172,Central de Autobuses del Sur - Central de Autobuses del Norte,STE,Corredor Cero Emisiones Eje Central
+17855,,JOYAS,San Felipe Metro Hidalgo,19.47632946,-99.12031158,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+15104,,ISABEL LA  CATÓLICA,,19.41483409,-99.13841039,Metro Velódromo - Metro Chapultepec,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+15095,,INDUSTRIA_1,,19.40866706,-99.1156988,Metro Velódromo - Metro Chapultepec,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+17699,,LAGUNA DE TÉRMINOS,Rosario Chapultepec,19.44337358,-99.18294713,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+17772,,MAR CANTABRICO,Rosario Chapultepec,19.4535417,-99.18158525,Metro El Rosario - Metro Chapultepec,STE,Metro El Rosario - Metro Chapultepec
+18191,,Ma. LUISA STAMPA ORTIGOZA_1,Circuitio Politecnico,19.50489093,-99.14370828,Terminal Zacatenco,STE,Circuito Politécnico
+36069,,METRO. M. A. DE QUEVEDO,San Francisco,19.34643052,-99.18060529,Ciudad Universitaria - San Francisco Culhuacán,STE,San Francisco Culhuacán - Ciudad Universitaria
+17779,,NEWTON,Rosario Chapultepec,19.43734226,-99.18361135,Metro El Rosario - Metro Chapultepec,STE,Metro El Rosario - Metro Chapultepec
+17766,,NILO,Rosario Chapultepec,19.46714871,-99.1771321,Metro El Rosario - Metro Chapultepec,STE,Metro El Rosario - Metro Chapultepec
+15128,,MÉRIDA_1,,19.41464408,-99.15651121,Metro Chapultepec - Metro Velódromo,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+35509,,Matías Romero_1,,19.48007568,-99.18374419,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+17908,,SANTO DOMINGO_1_2,Rosario Puerto Aereo,19.48725695,-99.19195175,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+18067,,RÍO CONSULADO_1_4,EJE Central,19.46601646,-99.13730693,Central de Autobuses del Sur - Central de Autobuses del Norte,STE,Corredor Cero Emisiones Eje Central
+17833,,TLATELOLCO_1_2,San Felipe Metro Hidalgo,19.45121182,-99.1325246,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+15092,,TERMINAL VELÓDROMO,,19.40886663,-99.1046709,Metro Velódromo - Metro Chapultepec,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+15141,,TORNO_1_2,,19.41349047,-99.12460576,Metro Chapultepec - Metro Velódromo,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+15099,,SUR 77,,19.41363852,-99.12424706,Metro Velódromo - Metro Chapultepec,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+18057,,REPÚBLICA DE URUGUAY,EJE Central,19.4309817,-99.14128726,Central de Autobuses del Sur - Central de Autobuses del Norte,STE,Corredor Cero Emisiones Eje Central
+17804,,PUERTO DE SAN BLAS,San Felipe Metro Hidalgo,19.47459884,-99.08593785,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+17798,,PUERTO DE MAZATLÁN,San Felipe Metro Hidalgo,19.47785944,-99.07833558,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+18020,,RÍO BLANCO_1,Rosario Puerto Aereo,19.50849546,-99.20550227,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+17892,,VALLE YUKÓN,San Felipe Metro Hidalgo,19.49298339,-99.06626716,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+18036,,POPOCATÉPETL,EJE Central,19.36155905,-99.15128946,Central de Autobuses del Sur - Central de Autobuses del Norte,STE,Corredor Cero Emisiones Eje Central
+18146,,PLUTARCO ELÍAS CALLES_1_2,EJE 7,19.36718586,-99.13735029,San Andrés Tetepilco - Metro Mixcoac,STE,Corredor Cero Emisiones Eje 7 - 7A Sur
+17707,,PONIENTE 44,Rosario Chapultepec,19.46046206,-99.17773456,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+17709,,PONIENTE 58,Rosario Chapultepec,19.46467027,-99.17730689,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+18049,,ANTONIO SOLÍS,EJE Central,19.40962918,-99.14430734,Central de Autobuses del Sur - Central de Autobuses del Norte,STE,Corredor Cero Emisiones Eje Central
+17939,,AV. 503,Rosario Puerto Aereo,19.45749889,-99.09698984,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+18008,,16 DE SEPTIEMBRE,Rosario Puerto Aereo,19.48983606,-99.19435501,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+39582,,AUGUSTO RODIN_1,EJE 7,19.37470709,-99.18291807,San Andrés Tetepilco - Metro Mixcoac,STE,Corredor Cero Emisiones Eje 7 - 7A Sur
+15117,,ÁLVARO OBREGÓN_1_2,,19.41654917,-99.16697879,Metro Velódromo - Metro Chapultepec,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+18123,,INSURGENTES_1_13,EJE 7,19.37376581,-99.17938828,Metro Mixcoac - San Andrés Tetepilco,STE,Corredor Cero Emisiones Eje 7 - 7A Sur
+15124,,INSURGENTES_1_12,,19.41575609,-99.16598543,Metro Chapultepec - Metro Velódromo,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+36097,,CERRO DEL CUBILETE,San Francisco,19.3408581,-99.13414478,San Francisco Culhuacán - Ciudad Universitaria,STE,San Francisco Culhuacán - Ciudad Universitaria
+36091,,CJON. SAN PABLO,San Francisco,19.33874376,-99.11734352,Ciudad Universitaria - San Francisco Culhuacán,STE,San Francisco Culhuacán - Ciudad Universitaria
+36068,,CERRO XICO,San Francisco,19.34343371,-99.18121349,Ciudad Universitaria - San Francisco Culhuacán,STE,San Francisco Culhuacán - Ciudad Universitaria
+17869,,CLINICA 23 IMSS,San Felipe Metro Hidalgo,19.47813135,-99.09636766,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+15139,,CLAVIJERO_1,,19.41196923,-99.13104963,Metro Chapultepec - Metro Velódromo,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+15101,,CLAVIJERO,,19.4134051,-99.13050945,Metro Velódromo - Metro Chapultepec,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+18096,,DR. VELASCO,EJE Central,19.41907469,-99.14353361,Central de Autobuses del Norte - Central de Autobuses del Sur,STE,Corredor Cero Emisiones Eje Central
+15082,,ESTADIO AZTECA_1,,19.30153704,-99.14724469,Tasqueña - Xochimilco,STE,Tasqueña - Xochimilco
+18053,,DOCTORES_1,EJE Central,19.42123099,-99.14312458,Central de Autobuses del Sur - Central de Autobuses del Norte,STE,Corredor Cero Emisiones Eje Central
+18132,,CUAUHTÉMOC_1_5,EJE 7,19.36912206,-99.16184354,Metro Mixcoac - San Andrés Tetepilco,STE,Corredor Cero Emisiones Eje 7 - 7A Sur
+17847,,COBRE,San Felipe Metro Hidalgo,19.45478698,-99.12918806,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+17903,,VÍCTOR HERNÁNDEZ COVARRUBIAS,Rosario Puerto Aereo,19.49916097,-99.20243382,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+18091,,VIZCAÍNAS_1,EJE Central,19.42920928,-99.14172323,Central de Autobuses del Norte - Central de Autobuses del Sur,STE,Corredor Cero Emisiones Eje Central
+18038,,MUNICIPIO LIBRE,EJE Central,19.36874319,-99.15004551,Central de Autobuses del Sur - Central de Autobuses del Norte,STE,Corredor Cero Emisiones Eje Central
+17932,,NORTE 54-A,Rosario Puerto Aereo,19.46489281,-99.11576629,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+18050,,OBRERA_1,EJE Central,19.41293188,-99.14397449,Central de Autobuses del Sur - Central de Autobuses del Norte,STE,Corredor Cero Emisiones Eje Central
+15127,,ORIZABA_1_3,,19.41416961,-99.15894186,Metro Chapultepec - Metro Velódromo,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+36085,,PETROLEOS MEXICANOS,San Francisco,19.34026082,-99.13311481,Ciudad Universitaria - San Francisco Culhuacán,STE,San Francisco Culhuacán - Ciudad Universitaria
+17880,,PUERTO DE MAZATLÁN_1,San Felipe Metro Hidalgo,19.47764153,-99.07807021,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+17941,,PEKÍN_1,Rosario Puerto Aereo,19.44977317,-99.09138959,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+18164,,POUSSIN,EJE 7,19.37545606,-99.18550372,San Andrés Tetepilco - Metro Mixcoac,STE,Corredor Cero Emisiones Eje 7 - 7A Sur
+36098,,CANAL DE MIRAMONTES,San Francisco,19.34126304,-99.13706303,San Francisco Culhuacán - Ciudad Universitaria,STE,San Francisco Culhuacán - Ciudad Universitaria
+36086,,CASTELLANOS QUINTO,San Francisco,19.33946107,-99.13019657,Ciudad Universitaria - San Francisco Culhuacán,STE,San Francisco Culhuacán - Ciudad Universitaria
+18045,,CENTRO SCOP_1,EJE Central,19.39437242,-99.14607827,Central de Autobuses del Sur - Central de Autobuses del Norte,STE,Corredor Cero Emisiones Eje Central
+17988,,CENTRAL SUR_1,Rosario Puerto Aereo,19.473238,-99.15074229,Metro Blvd. Puerto Aéreo - Metro El Rosario,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17965,,CALLE 549,Rosario Puerto Aereo,19.44767868,-99.08852632,Metro Blvd. Puerto Aéreo - Metro El Rosario,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17795,,CAMINO DE LA UNIÓN,San Felipe Metro Hidalgo,19.48272044,-99.07624775,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+18205,,CDA. MANUEL STAMPA,Circuitio Politecnico,19.49910689,-99.14672961,Terminal Zacatenco,STE,Circuito Politécnico
+17946,,AV. DEL PEÑÓN_1,Rosario Puerto Aereo,19.43978384,-99.08996352,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17967,,CALLE 525,Rosario Puerto Aereo,19.45187455,-99.09305933,Metro Blvd. Puerto Aéreo - Metro El Rosario,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17782,,AV. PRESIDENTE MAZARIK,Rosario Chapultepec,19.43193324,-99.18145118,Metro El Rosario - Metro Chapultepec,STE,Metro El Rosario - Metro Chapultepec
+18051,,MANUEL JOSÉ OTHÓN,EJE Central,19.41495895,-99.1437664,Central de Autobuses del Sur - Central de Autobuses del Norte,STE,Corredor Cero Emisiones Eje Central
+17775,,LAGO BOLSENA_1,Rosario Chapultepec,19.44570788,-99.18284493,Metro El Rosario - Metro Chapultepec,STE,Metro El Rosario - Metro Chapultepec
+15112,,MÉRIDA,,19.41564086,-99.15624928,Metro Velódromo - Metro Chapultepec,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+18092,,SALTO DEL AGUA_1_2,EJE Central,19.42734218,-99.14200994,Central de Autobuses del Norte - Central de Autobuses del Sur,STE,Corredor Cero Emisiones Eje Central
+17786,,SIERRA HERMOSA,San Felipe Metro Hidalgo,19.4941865,-99.06592883,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+17820,,RICARTE,San Felipe Metro Hidalgo,19.482005,-99.11993899,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+18116,,AMÉRICA_1,EJE Central,19.3455455,-99.14981363,Central de Autobuses del Norte - Central de Autobuses del Sur,STE,Corredor Cero Emisiones Eje Central
+17911,,MANUEL ACUÑA,Rosario Puerto Aereo,19.47936765,-99.18885112,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17812,,METRO MARTÍN CARRERA,San Felipe Metro Hidalgo,19.48297253,-99.10747693,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+18032,,IRLANDA,EJE Central,19.34851477,-99.15037056,Central de Autobuses del Sur - Central de Autobuses del Norte,STE,Corredor Cero Emisiones Eje Central
+17697,,LAGO ALBERTO,Rosario Chapultepec,19.43947878,-99.18351188,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+18025,,DEPÓSITO EL ROSARIO,Rosario Puerto Aereo,19.50565371,-99.1983676,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+17845,,CONSTANCIA,San Felipe Metro Hidalgo,19.45044654,-99.13275488,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+17866,,HOSPITAL DE LA VILLA,San Felipe Metro Hidalgo,19.48085776,-99.10307495,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+17930,,GRACIELA,Rosario Puerto Aereo,19.46662258,-99.12072301,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+18161,,FRESAS,EJE 7,19.37309657,-99.17585719,San Andrés Tetepilco - Metro Mixcoac,STE,Corredor Cero Emisiones Eje 7 - 7A Sur
+18199,,FTE. EDIF. 2 ESIME,Circuitio Politecnico,19.49836515,-99.13655923,Terminal Zacatenco,STE,Circuito Politécnico
+17989,,CALLE 12,Rosario Puerto Aereo,19.47350099,-99.15427208,Metro Blvd. Puerto Aéreo - Metro El Rosario,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17922,,CALLE 8,Rosario Puerto Aereo,19.47350896,-99.15819102,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+18065,,CHOPIN,EJE Central,19.46060743,-99.13758285,Central de Autobuses del Sur - Central de Autobuses del Norte,STE,Corredor Cero Emisiones Eje Central
+17788,,CALPULALPAN,San Felipe Metro Hidalgo,19.49060697,-99.06747942,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+18011,,AV. AHUEHUETES,Rosario Puerto Aereo,19.49538859,-99.19847488,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+15105,,BOLÍVAR_1_2,,19.4149899,-99.14075539,Metro Velódromo - Metro Chapultepec,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+18112,,POPOCATÉPETL_1,EJE Central,19.36158942,-99.15146112,Central de Autobuses del Norte - Central de Autobuses del Sur,STE,Corredor Cero Emisiones Eje Central
+18078,,PONIENTE 106,EJE Central,19.47306549,-99.13873166,Central de Autobuses del Norte - Central de Autobuses del Sur,STE,Corredor Cero Emisiones Eje Central
+17799,,PUERTO DE TAMPICO,San Felipe Metro Hidalgo,19.47593835,-99.07907182,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+17875,,PUERTO ACAPULCO,San Felipe Metro Hidalgo,19.47424346,-99.08496388,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+18131,,PLAZA UNIVERSIDAD,EJE 7,19.37037513,-99.1645503,Metro Mixcoac - San Andrés Tetepilco,STE,Corredor Cero Emisiones Eje 7 - 7A Sur
+18165,,PATRIOTISMO_1_4,EJE 7,19.37572933,-99.1865766,San Andrés Tetepilco - Metro Mixcoac,STE,Corredor Cero Emisiones Eje 7 - 7A Sur
+17885,,EDO. TAMAULIPAS,San Felipe Metro Hidalgo,19.48166154,-99.07209572,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+17822,,EUZKARO_1_2,San Felipe Metro Hidalgo,19.47880693,-99.12115394,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+17985,,NORTE 1-G,Rosario Puerto Aereo,19.47227706,-99.14127946,Metro Blvd. Puerto Aéreo - Metro El Rosario,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17948,,NORTE 33,Rosario Puerto Aereo,19.43515899,-99.09253641,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+18001,,MINERVA,Rosario Puerto Aereo,19.48122875,-99.18343306,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+18147,,MIRAVALLE,EJE 7,19.36754169,-99.13915642,San Andrés Tetepilco - Metro Mixcoac,STE,Corredor Cero Emisiones Eje 7 - 7A Sur
+15109,,NIÑOS HÉROES_1_2,,19.41571532,-99.15059204,Metro Velódromo - Metro Chapultepec,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+17995,,SORIANA CUITLÁHUAC,Rosario Puerto Aereo,19.47004951,-99.17105405,Metro Blvd. Puerto Aéreo - Metro El Rosario,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+18088,,SANTA VERACRUZ,EJE Central,19.43709689,-99.14053095,Central de Autobuses del Norte - Central de Autobuses del Sur,STE,Corredor Cero Emisiones Eje Central
+18151,,TOKIO_1,EJE 7,19.36968491,-99.15245825,San Andrés Tetepilco - Metro Mixcoac,STE,Corredor Cero Emisiones Eje 7 - 7A Sur
+18133,,UXMAL,EJE 7,19.36749258,-99.15958314,Metro Mixcoac - San Andrés Tetepilco,STE,Corredor Cero Emisiones Eje 7 - 7A Sur
+18107,,ÁNGEL URRAZA,EJE Central,19.37952721,-99.14821123,Central de Autobuses del Norte - Central de Autobuses del Sur,STE,Corredor Cero Emisiones Eje Central
+18144,,ARBOLEDAS,EJE 7,19.36427642,-99.13363611,Metro Mixcoac - San Andrés Tetepilco,STE,Corredor Cero Emisiones Eje 7 - 7A Sur
+17964,,METRO OCEANÍA_1_2,Rosario Puerto Aereo,19.4456408,-99.0869086,Metro Blvd. Puerto Aéreo - Metro El Rosario,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+18108,,MATÍAS ROMERO,EJE Central,19.37779438,-99.14856057,Central de Autobuses del Norte - Central de Autobuses del Sur,STE,Corredor Cero Emisiones Eje Central
+18160,,MORAS_1,EJE 7,19.37266163,-99.17379395,San Andrés Tetepilco - Metro Mixcoac,STE,Corredor Cero Emisiones Eje 7 - 7A Sur
+18182,,METRO POLITÉCNICO (PONIENTE),Circuitio Politecnico,19.50045772,-99.14958738,Terminal Zacatenco,STE,Circuito Politécnico
+17929,,CALZ. DE GUADALUPE,Rosario Puerto Aereo,19.46779598,-99.12415624,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17796,,CAMINO SUR,San Felipe Metro Hidalgo,19.48169063,-99.07685741,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+18139,,CANARIAS,EJE 7,19.36499815,-99.14783638,Metro Mixcoac - San Andrés Tetepilco,STE,Corredor Cero Emisiones Eje 7 - 7A Sur
+36135,,CD. UNIVERSITARIA - ESTADIO C.U.,,19.3361608,-99.19068575,San Francisco Culhuacán - Ciudad Universitaria,STE,San Francisco Culhuacán - Ciudad Universitaria
+15135,,BOLÍVAR_1_3,,19.41403807,-99.14150318,Metro Chapultepec - Metro Velódromo,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+18104,,LUZ SAVIÑÓN,EJE Central,19.38900779,-99.1469121,Central de Autobuses del Norte - Central de Autobuses del Sur,STE,Corredor Cero Emisiones Eje Central
+17698,,LAGUNA DE MAYRÁN,Rosario Chapultepec,19.44135116,-99.1832426,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+17838,,LERDO_1_4,San Felipe Metro Hidalgo,19.44133632,-99.14246603,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+17851,,JULIETA,San Felipe Metro Hidalgo,19.46429183,-99.12499219,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+17706,,MAR MÁRMARA,Rosario Chapultepec,19.45875187,-99.17875225,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+18209,,HUACHO,Circuitio Politecnico,19.49563066,-99.13950894,Terminal Zacatenco,STE,Circuito Politécnico
+15081,,HUIPULCO_1,,19.2974865,-99.15071266,Tasqueña - Xochimilco,STE,Tasqueña - Xochimilco
+17917,,AV. CUITLÁHUAC (GTA. CAMARONES),Rosario Puerto Aereo,19.46835233,-99.17544007,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17933,,AV. CONGRESO DE LA UNIÓN,Rosario Puerto Aereo,19.46376997,-99.11260128,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+36116,,AV. COPILCO_1,San Francisco,19.33770735,-99.18362129,San Francisco Culhuacán - Ciudad Universitaria,STE,San Francisco Culhuacán - Ciudad Universitaria
+18023,,AV. CULTURA NORTE,Rosario Puerto Aereo,19.51137762,-99.19754148,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+18019,,AV. CULTURAS,Rosario Puerto Aereo,19.50804038,-99.2082274,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+18140,,BALBOA,EJE 7,19.36460105,-99.14529629,Metro Mixcoac - San Andrés Tetepilco,STE,Corredor Cero Emisiones Eje 7 - 7A Sur
+18204,,ESC. NACIONAL DE CIENCIAS BIOLÓGICAS,Circuitio Politecnico,19.49871155,-99.14576042,Terminal Zacatenco,STE,Circuito Politécnico
+15106,,EJE CENTRAL_1_5,,19.41519166,-99.14347815,Metro Velódromo - Metro Chapultepec,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+18080,,RÍO CONSULADO_1_5,EJE Central,19.46554366,-99.13759049,Central de Autobuses del Norte - Central de Autobuses del Sur,STE,Corredor Cero Emisiones Eje Central
+17916,,HELIÓPOLIS,Rosario Puerto Aereo,19.46868613,-99.17701721,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17848,,HIERRO,San Felipe Metro Hidalgo,19.45671917,-99.1279757,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+18197,,FTE. EDIF. 6 ESIQIE,Circuitio Politecnico,19.50089302,-99.1360575,Terminal Zacatenco,STE,Circuito Politécnico
+17993,,PLAN DE SAN LUIS_1_3,Rosario Puerto Aereo,19.47161786,-99.16598137,Metro Blvd. Puerto Aéreo - Metro El Rosario,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+36064,,PSICOLOGÍA,San Francisco,19.33683908,-99.18727398,Ciudad Universitaria - San Francisco Culhuacán,STE,San Francisco Culhuacán - Ciudad Universitaria
+18076,,PONIENTE 118,EJE Central,19.48046379,-99.14166879,Central de Autobuses del Norte - Central de Autobuses del Sur,STE,Corredor Cero Emisiones Eje Central
+36080,,DIVISIÓN DEL NORTE_1_4,San Francisco,19.34253019,-99.14916147,Ciudad Universitaria - San Francisco Culhuacán,STE,San Francisco Culhuacán - Ciudad Universitaria
+17881,,DEPORTIVO LOS GALEANA_1,San Felipe Metro Hidalgo,19.47891911,-99.07758906,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+15107,,DR. ANDRADE_1,,19.41538923,-99.14624177,Metro Velódromo - Metro Chapultepec,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+36096,,PASEO DE LOS ABETOS (CECYT 13),San Francisco,19.33948132,-99.12932754,San Francisco Culhuacán - Ciudad Universitaria,STE,San Francisco Culhuacán - Ciudad Universitaria
+17950,,NORTE 25  II,Rosario Puerto Aereo,19.43143037,-99.09461032,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17975,,NORTE 72-A_1,Rosario Puerto Aereo,19.4622598,-99.10749531,Metro Blvd. Puerto Aéreo - Metro El Rosario,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17935,,NORTE 72-A,Rosario Puerto Aereo,19.46212111,-99.10782695,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17938,,NORTE 92,Rosario Puerto Aereo,19.45930889,-99.09986615,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17960,,NORTE 25,Rosario Puerto Aereo,19.42976462,-99.09061185,Metro Blvd. Puerto Aéreo - Metro El Rosario,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+15086,,NEZAHUALPILLI_1,,19.32372324,-99.13812628,Tasqueña - Xochimilco,STE,Tasqueña - Xochimilco
+17997,,SALÓNICA_1_2,Rosario Puerto Aereo,19.47034505,-99.17805791,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+18176,,SECRETARIA DE EXTENSIÓN Y DIFUSIÓN,Circuitio Politecnico,19.50456004,-99.13985592,Terminal Zacatenco,STE,Circuito Politécnico
+18013,,TIERRA COLORADA,Rosario Puerto Aereo,19.49897893,-99.20163989,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+18100,,VIADUCTO_1_3,EJE Central,19.40304259,-99.14516998,Central de Autobuses del Norte - Central de Autobuses del Sur,STE,Corredor Cero Emisiones Eje Central
+18056,,VIZCAÍNAS,EJE Central,19.42875845,-99.14159335,Central de Autobuses del Sur - Central de Autobuses del Norte,STE,Corredor Cero Emisiones Eje Central
+17824,,VICTORIA_1_3,San Felipe Metro Hidalgo,19.47394659,-99.12297079,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+18206,,VIA CETI,Circuitio Politecnico,19.49754264,-99.14393904,Terminal Zacatenco,STE,Circuito Politécnico
+17800,,CAMINO DE SAN JUAN DE ARAGÓN,San Felipe Metro Hidalgo,19.47368107,-99.07924451,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+17890,,CALPULALPAN_1,San Felipe Metro Hidalgo,19.49033975,-99.06740847,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+17783,,CAMPOS ELÍSEOS,Rosario Chapultepec,19.42884221,-99.18020595,Metro El Rosario - Metro Chapultepec,STE,Metro El Rosario - Metro Chapultepec
+17807,,AV. GRAN CANAL II (U. H. MORELOS),San Felipe Metro Hidalgo,19.47702481,-99.09248971,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+17955,,BLV. PUERTO AÉREO,Rosario Puerto Aereo,19.42551797,-99.09351468,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17834,,AV. R. FLORES MAGÓN,San Felipe Metro Hidalgo,19.44931979,-99.1340153,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+17818,,AV. MONTEVIDEO,San Felipe Metro Hidalgo,19.48603272,-99.11844804,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+15131,,DR. JIMÉNEZ,,19.41467615,-99.14997881,Metro Chapultepec - Metro Velódromo,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+17895,,AV. DE LAS CULTURAS,Rosario Puerto Aereo,19.51111469,-99.19857144,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17970,,3a. CDA. AV. 503,Rosario Puerto Aereo,19.46086148,-99.0953208,Metro Blvd. Puerto Aéreo - Metro El Rosario,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17814,,5 DE FEBRERO_1_4,San Felipe Metro Hidalgo,19.4842668,-99.11338658,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+36087,,EJIDO SANTA ISABEL TOLA,San Francisco,19.33866132,-99.1274929,Ciudad Universitaria - San Francisco Culhuacán,STE,San Francisco Culhuacán - Ciudad Universitaria
+18150,,EJE CENTRAL_1_8,EJE 7,19.3692225,-99.14963809,San Andrés Tetepilco - Metro Mixcoac,STE,Corredor Cero Emisiones Eje 7 - 7A Sur
+36089,,MIGUEL HIDALGO_1,San Francisco,19.33724403,-99.12014365,Ciudad Universitaria - San Francisco Culhuacán,STE,San Francisco Culhuacán - Ciudad Universitaria
+18101,,MORENA,EJE Central,19.39830747,-99.14576143,Central de Autobuses del Norte - Central de Autobuses del Sur,STE,Corredor Cero Emisiones Eje Central
+17857,,MOCTEZUMA_1_3,San Felipe Metro Hidalgo,19.48070279,-99.11859595,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+17852,,NOÉ,San Felipe Metro Hidalgo,19.46726311,-99.12386414,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+15094,,MIXIUHCA,,19.40841039,-99.11264141,Metro Velódromo - Metro Chapultepec,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+18047,,VIADUCTO_1_2,EJE Central,19.40331739,-99.14494383,Central de Autobuses del Sur - Central de Autobuses del Norte,STE,Corredor Cero Emisiones Eje Central
+15102,,TLALPAN,,19.41330522,-99.13320725,Metro Velódromo - Metro Chapultepec,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+15087,,XOTEPINGO_1,,19.32746523,-99.1393333,Tasqueña - Xochimilco,STE,Tasqueña - Xochimilco
+17958,,TERMINAL METRO BLVD. PUERTO AÉREO,Rosario Puerto Aereo,19.42084028,-99.09554515,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17787,,TEPATITLÁN,San Felipe Metro Hidalgo,19.49253821,-99.06664487,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+18126,,SAN FRANCISCO_1,EJE 7,19.3729561,-99.17579412,Metro Mixcoac - San Andrés Tetepilco,STE,Corredor Cero Emisiones Eje 7 - 7A Sur
+18115,,HIDALGO_1_6,EJE Central,19.35172111,-99.15155611,Central de Autobuses del Norte - Central de Autobuses del Sur,STE,Corredor Cero Emisiones Eje Central
+17835,,GONZÁLEZ BOCANEGRA,San Felipe Metro Hidalgo,19.44609078,-99.13722599,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+17858,,HIDALGO_1_5,San Felipe Metro Hidalgo,19.48033199,-99.11708509,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+18162,,INSURGENTES_1_14,EJE 7,19.37365192,-99.17855736,San Andrés Tetepilco - Metro Mixcoac,STE,Corredor Cero Emisiones Eje 7 - 7A Sur
+17693,,GUTEMBERG,Rosario Chapultepec,19.43088047,-99.18070793,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+18175,,LUIS ENRIQUE ERRO (BIBLIOTECA ESIA),Circuitio Politecnico,19.50431293,-99.13862072,Terminal Zacatenco,STE,Circuito Politécnico
+15140,,LA VIGA_1_4,,19.41331242,-99.12881492,Metro Chapultepec - Metro Velódromo,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+17882,,FRANCISCO MORAZÁN_1,San Felipe Metro Hidalgo,19.48054919,-99.0769289,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+17821,,FORTUNA,San Felipe Metro Hidalgo,19.47990576,-99.12071234,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+18207,,FTE. CENTRO DE FORMACIÓN EDUCATIVA,Circuitio Politecnico,19.4967385,-99.14213465,Terminal Zacatenco,STE,Circuito Politécnico
+17897,,PESCADORES,Rosario Puerto Aereo,19.51063939,-99.20203686,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17918,,PIÑA,Rosario Puerto Aereo,19.47004159,-99.1701293,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17973,,NORTE 84-A,Rosario Puerto Aereo,19.46042997,-99.10237257,Metro Blvd. Puerto Aéreo - Metro El Rosario,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17998,,NORTE 87_1,Rosario Puerto Aereo,19.4716398,-99.17924881,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+17999,,2a CDA. DE TULA,Rosario Puerto Aereo,19.47548354,-99.18253183,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+18127,,20 DE NOVIEMBRE,EJE 7,19.37191083,-99.17113296,Metro Mixcoac - San Andrés Tetepilco,STE,Corredor Cero Emisiones Eje 7 - 7A Sur
+15144,,ACONCHI,,19.4139328,-99.11601957,Metro Chapultepec - Metro Velódromo,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+18102,,CENTRO SCOP_1_2,EJE Central,19.39544422,-99.14604306,Central de Autobuses del Norte - Central de Autobuses del Sur,STE,Corredor Cero Emisiones Eje Central
+18034,,CHURUBUSCO,EJE Central,19.35713364,-99.15278802,Central de Autobuses del Sur - Central de Autobuses del Norte,STE,Corredor Cero Emisiones Eje Central
+18156,,CETRAM ZAPATA,EJE 7,19.37064062,-99.16446073,San Andrés Tetepilco - Metro Mixcoac,STE,Corredor Cero Emisiones Eje 7 - 7A Sur
+18201,,CENLEX,Circuitio Politecnico,19.49596513,-99.13932834,Terminal Zacatenco,STE,Circuito Politécnico
+15111,,CUAUHTÉMOC_1_3,,19.41594096,-99.15408612,Metro Velódromo - Metro Chapultepec,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+17928,,CALZ. DE LOS MISTERIOS,Rosario Puerto Aereo,19.46818036,-99.12534714,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17878,,AV. JOSÉ LORETO FABELA,San Felipe Metro Hidalgo,19.47320684,-99.0795329,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+17832,,AV. MANUEL GONZÁLEZ,San Felipe Metro Hidalgo,19.45418437,-99.13061384,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+17987,,CALLE 28,Rosario Puerto Aereo,19.47337961,-99.14714813,Metro Blvd. Puerto Aéreo - Metro El Rosario,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17830,,BEETHOVEN,San Felipe Metro Hidalgo,19.45958928,-99.12840502,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+18093,,DR. RÍO DE LA LOZA,EJE Central,19.42492157,-99.1425922,Central de Autobuses del Norte - Central de Autobuses del Sur,STE,Corredor Cero Emisiones Eje Central
+18152,,DR. VÉRTIZ_1_3,EJE 7,19.37006048,-99.15486941,San Andrés Tetepilco - Metro Mixcoac,STE,Corredor Cero Emisiones Eje 7 - 7A Sur
+18192,,FTE. EDIF. CENTRAL DE INTELIGENCIA DE CÓMPUTO,Circuitio Politecnico,19.50461243,-99.14222712,Terminal Zacatenco,STE,Circuito Politécnico
+17816,,GRAL. MARIANO SALAS,San Felipe Metro Hidalgo,19.48779517,-99.1135511,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+18122,,AUGUSTO RODIN,EJE 7,19.37461545,-99.18328788,Metro Mixcoac - San Andrés Tetepilco,STE,Corredor Cero Emisiones Eje 7 - 7A Sur
+18054,,FRAY SERVANDO_1,EJE Central,19.4243304,-99.14254419,Central de Autobuses del Sur - Central de Autobuses del Norte,STE,Corredor Cero Emisiones Eje Central
+36090,,EJIDO,San Francisco,19.33815515,-99.11837339,Ciudad Universitaria - San Francisco Culhuacán,STE,San Francisco Culhuacán - Ciudad Universitaria
+18006,,FFCC NACIONALES,Rosario Puerto Aereo,19.48555775,-99.18943048,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+18121,,FRAGONARD,EJE 7,19.37504109,-99.18465614,Metro Mixcoac - San Andrés Tetepilco,STE,Corredor Cero Emisiones Eje 7 - 7A Sur
+17780,,HOMERO,Rosario Chapultepec,19.4357306,-99.18300864,Metro El Rosario - Metro Chapultepec,STE,Metro El Rosario - Metro Chapultepec
+18084,,MANUEL GONZÁLEZ_1_4,EJE Central,19.45506012,-99.13837194,Central de Autobuses del Norte - Central de Autobuses del Sur,STE,Corredor Cero Emisiones Eje Central
+18061,,LUNA,EJE Central,19.44757836,-99.13867555,Central de Autobuses del Sur - Central de Autobuses del Norte,STE,Corredor Cero Emisiones Eje Central
+36078,,OCEANÍA_1_2,San Francisco,19.34322695,-99.15414333,Ciudad Universitaria - San Francisco Culhuacán,STE,San Francisco Culhuacán - Ciudad Universitaria
+17953,,NORTE 13,Rosario Puerto Aereo,19.42741538,-99.09682696,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17951,,NORTE 21,Rosario Puerto Aereo,19.43035007,-99.09520055,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+18210,,OROYA,Circuitio Politecnico,19.49491598,-99.13635971,Terminal Zacatenco,STE,Circuito Politécnico
+18071,,MASAGUA,EJE Central,19.48858524,-99.14396295,Central de Autobuses del Norte - Central de Autobuses del Sur,STE,Corredor Cero Emisiones Eje Central
+18142,,SUR 69-A,EJE 7,19.36326494,-99.13654047,Metro Mixcoac - San Andrés Tetepilco,STE,Corredor Cero Emisiones Eje 7 - 7A Sur
+18060,,REPÚBLICA DE PERÚ,EJE Central,19.43945734,-99.13995037,Central de Autobuses del Sur - Central de Autobuses del Norte,STE,Corredor Cero Emisiones Eje Central
+17829,,RÍO CONSULADO_1_2,San Felipe Metro Hidalgo,19.4619413,-99.12750127,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+17874,,PUERTO GUAYMAS,San Felipe Metro Hidalgo,19.4746364,-99.08706574,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+18072,,U. H. LINDAVISTA VALLEJO,EJE Central,19.49258707,-99.14652586,Central de Autobuses del Norte - Central de Autobuses del Sur,STE,Corredor Cero Emisiones Eje Central
+36109,,ZARAGOZA_1_5,San Francisco,19.34591731,-99.17364613,San Francisco Culhuacán - Ciudad Universitaria,STE,San Francisco Culhuacán - Ciudad Universitaria
+18157,,ZAPATA_1_3,EJE 7,19.37078647,-99.1652047,San Andrés Tetepilco - Metro Mixcoac,STE,Corredor Cero Emisiones Eje 7 - 7A Sur
+17708,,PONIENTE  48 (BIOL. MAXIMINO MARTÍNEZ),Rosario Chapultepec,19.46177345,-99.17757857,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+17945,,PERSIA_1_2,Rosario Puerto Aereo,19.4411517,-99.08914182,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+18141,,PLUTARCO ELÍAS CALLES_1,EJE 7,19.36357306,-99.13888676,Metro Mixcoac - San Andrés Tetepilco,STE,Corredor Cero Emisiones Eje 7 - 7A Sur
+36107,,PINO,San Francisco,19.34545755,-99.16992003,San Francisco Culhuacán - Ciudad Universitaria,STE,San Francisco Culhuacán - Ciudad Universitaria
+17769,,PONIENTE 44_1,Rosario Chapultepec,19.46079593,-99.17801499,Metro El Rosario - Metro Chapultepec,STE,Metro El Rosario - Metro Chapultepec
+17966,,AV. 535,Rosario Puerto Aereo,19.4502606,-99.0913287,Metro Blvd. Puerto Aéreo - Metro El Rosario,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17980,,GRACIELA_1,Rosario Puerto Aereo,19.46673385,-99.12031531,Metro Blvd. Puerto Aéreo - Metro El Rosario,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17819,,GARRIDO,San Felipe Metro Hidalgo,19.4834068,-99.11939865,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+17694,,HORACIO,Rosario Chapultepec,19.43277231,-99.18152215,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+15136,,ISABEL LA CATÓLICA_1_7,,19.41384815,-99.13912324,Metro Chapultepec - Metro Velódromo,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+15116,,INSURGENTES_1_11,,19.41538753,-99.1649907,Metro Velódromo - Metro Chapultepec,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+15148,,GENARO GARCÍA,,19.411368,-99.10132367,Metro Chapultepec - Metro Velódromo,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+17894,,CETRAM METRO EL ROSARIO,Cetram El Rosario,19.50471319,-99.20101762,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+36070,,CERRO DEL HOMBRE,San Francisco,19.34606142,-99.17701721,Ciudad Universitaria - San Francisco Culhuacán,STE,San Francisco Culhuacán - Ciudad Universitaria
+17689,,CETRAM METRO CHAPULTEPEC_1,Rosario Chapultepec,19.42104954,-99.17548348,Metro El Rosario - Metro Chapultepec,STE,Metro El Rosario - Metro Chapultepec
+36105,,FELIPE CARRILLO PUERTO_1_2,San Francisco,19.34472152,-99.16376113,San Francisco Culhuacán - Ciudad Universitaria,STE,San Francisco Culhuacán - Ciudad Universitaria
+36077,,EUROPA,San Francisco,19.34366225,-99.15736198,Ciudad Universitaria - San Francisco Culhuacán,STE,San Francisco Culhuacán - Ciudad Universitaria
+18200,,FTE. EDIF. 1 ESIME,Circuitio Politecnico,19.49766348,-99.13669191,Terminal Zacatenco,STE,Circuito Politécnico
+18194,,FTE. EDIF 11 ESIA,Circuitio Politecnico,19.50369714,-99.1370432,Terminal Zacatenco,STE,Circuito Politécnico
+18168,,EDIF. 1 ESIME,Circuitio Politecnico,19.49763785,-99.13646814,Terminal Zacatenco,STE,Circuito Politécnico
+15083,,EL VERGEL_1,,19.30718096,-99.14306678,Tasqueña - Xochimilco,STE,Tasqueña - Xochimilco
+18098,,DR. DURÁN,EJE Central,19.41215231,-99.14424517,Central de Autobuses del Norte - Central de Autobuses del Sur,STE,Corredor Cero Emisiones Eje Central
+17891,,VALLE ZAMBEZI,San Felipe Metro Hidalgo,19.49174294,-99.0668085,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+17817,,ZARAGOZA_1_2,San Felipe Metro Hidalgo,19.48820316,-99.11769261,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+17972,,NORTE 92_1,Rosario Puerto Aereo,19.45946062,-99.0995121,Metro Blvd. Puerto Aéreo - Metro El Rosario,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17763,,NUBIA_1,Rosario Chapultepec,19.47435066,-99.18213487,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+36079,,OHIO,San Francisco,19.34288276,-99.15164351,Ciudad Universitaria - San Francisco Culhuacán,STE,San Francisco Culhuacán - Ciudad Universitaria
+18022,,CARBONO,Rosario Puerto Aereo,19.51062927,-99.20048118,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+18203,,CENTRO DE FORMACIÓN EDUCATIVA,Circuitio Politecnico,19.49704759,-99.14195893,Terminal Zacatenco,STE,Circuito Politécnico
+17912,,AV. AZCAPOTZALCO_1,Rosario Puerto Aereo,19.47847755,-99.18763876,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+36101,,AV. INGLATERRA,San Francisco,19.3432067,-99.15189028,San Francisco Culhuacán - Ciudad Universitaria,STE,San Francisco Culhuacán - Ciudad Universitaria
+17809,,AV. ING. EDUARDO MOLINA,San Felipe Metro Hidalgo,19.47893311,-99.09711587,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+17968,,CALLE 509,Rosario Puerto Aereo,19.45460488,-99.09605742,Metro Blvd. Puerto Aéreo - Metro El Rosario,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+18099,,LÁZARO CÁRDENAS_1_3,EJE Central,19.4076138,-99.1447072,Central de Autobuses del Norte - Central de Autobuses del Sur,STE,Corredor Cero Emisiones Eje Central
+17896,,MECÁNICOS,Rosario Puerto Aereo,19.51155965,-99.19933319,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+15090,,LAS TORRES_1,,19.34082411,-99.14346453,Tasqueña - Xochimilco,STE,Tasqueña - Xochimilco
+18029,,TASQUEÑA_1,EJE Central,19.34170846,-99.14080739,Central de Autobuses del Sur - Central de Autobuses del Norte,STE,Corredor Cero Emisiones Eje Central
+18046,,SORIA,EJE Central,19.39790795,-99.14560313,Central de Autobuses del Sur - Central de Autobuses del Norte,STE,Corredor Cero Emisiones Eje Central
+17867,,SAN JUAN,San Felipe Metro Hidalgo,19.48039461,-99.10195302,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+17784,,TOLSTÓI,Rosario Chapultepec,19.42513466,-99.17870764,Metro El Rosario - Metro Chapultepec,STE,Metro El Rosario - Metro Chapultepec
+15078,,TEPEPAN,,19.27948536,-99.13316978,Tasqueña - Xochimilco,STE,Tasqueña - Xochimilco
+36093,,1a. CDA. HIDALGO,San Francisco,19.33764897,-99.11984324,San Francisco Culhuacán - Ciudad Universitaria,STE,San Francisco Culhuacán - Ciudad Universitaria
+18009,,METRO AQUILES SERDÁN_1_3,Rosario Puerto Aereo,19.49089803,-99.19525623,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+17831,,JUVENTINO ROSAS,San Felipe Metro Hidalgo,19.45755305,-99.12918156,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+15138,,JOSÉ ANTONIO TORRES_1_2,,19.41200123,-99.13265997,Metro Chapultepec - Metro Velódromo,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+17860,,CUAUHTÉMOC (SECUNDARIA TÉCNICA # 9 ),San Felipe Metro Hidalgo,19.48026542,-99.11508389,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+17971,,DVO. FRANCISCO ZARCO,Rosario Puerto Aereo,19.46045199,-99.09587502,Metro Blvd. Puerto Aéreo - Metro El Rosario,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17794,,EDO. DE SINALOA,San Felipe Metro Hidalgo,19.4821638,-99.07370411,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+18177,,EDIF. CENTRAL DE INTELIGENCIA DE CÓMPUTO,Circuitio Politecnico,19.50494108,-99.14218272,Terminal Zacatenco,STE,Circuito Politécnico
+15098,,DEL TALLER,,19.41353917,-99.12126517,Metro Velódromo - Metro Chapultepec,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+18043,,GUIPÚZCOA,EJE Central,19.38847924,-99.14681363,Central de Autobuses del Sur - Central de Autobuses del Norte,STE,Corredor Cero Emisiones Eje Central
+18193,,FTE. CANCHA DE ENTRENAMIENTO PIELES ROJAS,Circuitio Politecnico,19.50412851,-99.13951844,Terminal Zacatenco,STE,Circuito Politécnico
+18180,,FTE. VIP´S TORRES LINDAVISTA,Circuitio Politecnico,19.50641246,-99.14641644,Terminal Zacatenco,STE,Circuito Politécnico
+15076,,HUICHAPAN,,19.26412595,-99.11805507,Tasqueña - Xochimilco,STE,Tasqueña - Xochimilco
+17940,,CAIRO_1,Rosario Puerto Aereo,19.45435198,-99.09647584,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+15096,,CONGRESO DE LA UNIÓN_1_3,,19.40922962,-99.12133365,Metro Velódromo - Metro Chapultepec,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+15089,,CD. JARDÍN,,19.33565784,-99.14186344,Tasqueña - Xochimilco,STE,Tasqueña - Xochimilco
+17962,,AV. DEL PEÑÓN_1_2,Rosario Puerto Aereo,19.43717732,-99.08619486,Metro Blvd. Puerto Aéreo - Metro El Rosario,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+36102,,AMÉRICA_1_2,San Francisco,19.34367237,-99.15539861,San Francisco Culhuacán - Ciudad Universitaria,STE,San Francisco Culhuacán - Ciudad Universitaria
+17826,,BASILISO ROMO ANGUIANO,San Felipe Metro Hidalgo,19.47052323,-99.12426405,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+17701,,AV. MARINA NACIONAL,Rosario Chapultepec,19.44753507,-99.18235246,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+17879,,PUERTO DE TAMPICO_1,San Felipe Metro Hidalgo,19.47534193,-99.07881618,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+15079,,PERIFÉRICO_1,,19.2827581,-99.1397753,Tasqueña - Xochimilco,STE,Tasqueña - Xochimilco
+18111,,EMILIANO ZAPATA_1,EJE Central,19.36576978,-99.15076375,Central de Autobuses del Norte - Central de Autobuses del Sur,STE,Corredor Cero Emisiones Eje Central
+17843,,EJE CENTRAL (M. GARIBALDI),San Felipe Metro Hidalgo,19.44353759,-99.13938872,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+18037,,EMILIANO ZAPATA,EJE Central,19.36583051,-99.15057063,Central de Autobuses del Sur - Central de Autobuses del Norte,STE,Corredor Cero Emisiones Eje Central
+18017,,FRENTE A NISSAN,Rosario Puerto Aereo,19.50473341,-99.20643568,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+17887,,EDO. OAXACA,San Felipe Metro Hidalgo,19.48478953,-99.07016944,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+17695,,EUCLIDES,Rosario Chapultepec,19.43490729,-99.18241189,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+17961,,METRO TERMINAL AÉREA,Rosario Puerto Aereo,19.43408626,-99.08804195,Metro Blvd. Puerto Aéreo - Metro El Rosario,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17963,,MORELOS_1_5,Rosario Puerto Aereo,19.4398591,-99.08547912,Metro Blvd. Puerto Aéreo - Metro El Rosario,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+15113,,ORIZABA_1_2,,19.41515527,-99.15878225,Metro Velódromo - Metro Chapultepec,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+18042,,RAMOS MILLÁN,EJE Central,19.38421067,-99.14729834,Central de Autobuses del Sur - Central de Autobuses del Norte,STE,Corredor Cero Emisiones Eje Central
+17785,,TERMINAL TEOLOYUCAN (San Felipe de Jesús),San Felipe Metro Hidalgo,19.49606038,-99.06508346,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+18083,,ROSSINI,EJE Central,19.45754326,-99.13792397,Central de Autobuses del Norte - Central de Autobuses del Sur,STE,Corredor Cero Emisiones Eje Central
+18134,,TAJÍN,EJE 7,19.36659918,-99.15801255,Metro Mixcoac - San Andrés Tetepilco,STE,Corredor Cero Emisiones Eje 7 - 7A Sur
+18143,,SUR 73,EJE 7,19.3629669,-99.13432931,Metro Mixcoac - San Andrés Tetepilco,STE,Corredor Cero Emisiones Eje 7 - 7A Sur
+18114,,XICOTÉNCATL_1,EJE Central,19.35517743,-99.1525404,Central de Autobuses del Norte - Central de Autobuses del Sur,STE,Corredor Cero Emisiones Eje Central
+18033,,XICOTÉNCATL,EJE Central,19.35487365,-99.1521743,Central de Autobuses del Sur - Central de Autobuses del Norte,STE,Corredor Cero Emisiones Eje Central
+18087,,VIOLETA,EJE Central,19.43990678,-99.14006748,Central de Autobuses del Norte - Central de Autobuses del Sur,STE,Corredor Cero Emisiones Eje Central
+18004,,ZARAGOZA_1_3,Rosario Puerto Aereo,19.48453619,-99.18637276,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+17899,,ALFAREROS,Rosario Puerto Aereo,19.50854603,-99.20843124,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+36072,,MELCHOR OCAMPO (MEGA COMERCIAL),San Francisco,19.34544392,-99.17174935,Ciudad Universitaria - San Francisco Culhuacán,STE,San Francisco Culhuacán - Ciudad Universitaria
+36073,,MOCTEZUMA_1_4,San Francisco,19.3449646,-99.16798411,Ciudad Universitaria - San Francisco Culhuacán,STE,San Francisco Culhuacán - Ciudad Universitaria
+18186,,METRO POLITÉCNICO (ORIENTE),Circuitio Politecnico,19.50027488,-99.14857266,Terminal Zacatenco,STE,Circuito Politécnico
+17863,,CALZ. SAN JUAN DE ARAGÓN,San Felipe Metro Hidalgo,19.4840131,-99.11340403,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+17983,,BUEN TONO,Rosario Puerto Aereo,19.46917167,-99.12821174,Metro Blvd. Puerto Aéreo - Metro El Rosario,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+18048,,LÁZARO CÁRDENAS_1_2,EJE Central,19.4069575,-99.14457119,Central de Autobuses del Sur - Central de Autobuses del Norte,STE,Corredor Cero Emisiones Eje Central
+18041,,KIFF,EJE Central,19.38110359,-99.14767385,Central de Autobuses del Sur - Central de Autobuses del Norte,STE,Corredor Cero Emisiones Eje Central
+17969,,AV. 506,Rosario Puerto Aereo,19.45794322,-99.09635782,Metro Blvd. Puerto Aéreo - Metro El Rosario,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+18208,,AV. 45 METROS,Circuitio Politecnico,19.49608676,-99.14073476,Terminal Zacatenco,STE,Circuito Politécnico
+36094,,ESCUELA NAVAL MILITAR_1,San Francisco,19.33767934,-99.122504,San Francisco Culhuacán - Ciudad Universitaria,STE,San Francisco Culhuacán - Ciudad Universitaria
+17886,,EDO. MORELOS,San Felipe Metro Hidalgo,19.48346408,-99.07067787,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+15134,,EJE CENTRAL_1_6,,19.41425865,-99.14430431,Metro Chapultepec - Metro Velódromo,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+36066,,HERMANOS VÁZQUEZ,San Francisco,19.33935241,-99.18206112,Ciudad Universitaria - San Francisco Culhuacán,STE,San Francisco Culhuacán - Ciudad Universitaria
+18062,,FLORES MAGÓN_1_2,EJE Central,19.44952588,-99.1383522,Central de Autobuses del Sur - Central de Autobuses del Norte,STE,Corredor Cero Emisiones Eje Central
+17711,,GLORIETA DE CAMARONES,Rosario Chapultepec,19.4675532,-99.17650223,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+17872,,PUERTO DE CÁDIZ (COMERCIAL MEXICANA),San Felipe Metro Hidalgo,19.47610478,-99.0908522,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+36075,,PUENTE SAN FRANCISCO,San Francisco,19.3442089,-99.16214705,Ciudad Universitaria - San Francisco Culhuacán,STE,San Francisco Culhuacán - Ciudad Universitaria
+17802,,PUERTO DE BARRA DE NAUTLA,San Felipe Metro Hidalgo,19.47391356,-99.08233545,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+17805,,PUERTO DE COATZACOALCOS,San Felipe Metro Hidalgo,19.47509035,-99.0885061,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+18202,,PLANETARIO,Circuitio Politecnico,19.49618404,-99.14006699,Terminal Zacatenco,STE,Circuito Politécnico
+18030,,DIVISIÓN DEL NORTE_1,EJE Central,19.34277141,-99.14859653,Central de Autobuses del Sur - Central de Autobuses del Norte,STE,Corredor Cero Emisiones Eje Central
+18103,,CUMBRES DE ACULTZINGO,EJE Central,19.3928242,-99.14646948,Central de Autobuses del Norte - Central de Autobuses del Sur,STE,Corredor Cero Emisiones Eje Central
+36084,,CERRO MACUILTEPEC,San Francisco,19.34106057,-99.13771749,Ciudad Universitaria - San Francisco Culhuacán,STE,San Francisco Culhuacán - Ciudad Universitaria
+17934,,NORTE 66-A,Rosario Puerto Aereo,19.46279886,-99.1099298,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17978,,NORTE 58,Rosario Puerto Aereo,19.46459911,-99.11418071,Metro Blvd. Puerto Aéreo - Metro El Rosario,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+18113,,SARATOGA,EJE Central,19.35868947,-99.15238655,Central de Autobuses del Norte - Central de Autobuses del Sur,STE,Corredor Cero Emisiones Eje Central
+18075,,TESORERÍA,EJE Central,19.48538545,-99.14362124,Central de Autobuses del Norte - Central de Autobuses del Sur,STE,Corredor Cero Emisiones Eje Central
+18119,,TERMINAL MIXCOAC,EJE 7,19.37586091,-99.18797135,Metro Mixcoac - San Andrés Tetepilco,STE,Corredor Cero Emisiones Eje 7 - 7A Sur
+15120,,TERMINAL CHAPULTEPEC,,19.42052568,-99.17532648,Metro Velódromo - Metro Chapultepec,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+17842,,VALERIO TRUJANO,San Felipe Metro Hidalgo,19.43934705,-99.14423624,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+15126,,TONALÁ_1,,19.41360541,-99.16178153,Metro Chapultepec - Metro Velódromo,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+36110,,CERRO DEL HOMBRE_1,San Francisco,19.34627344,-99.17652414,San Francisco Culhuacán - Ciudad Universitaria,STE,San Francisco Culhuacán - Ciudad Universitaria
+36083,,CERRO ZACAYUCA,San Francisco,19.34122239,-99.13919473,Ciudad Universitaria - San Francisco Culhuacán,STE,San Francisco Culhuacán - Ciudad Universitaria
+36114,,CERRO DE TUERA,San Francisco,19.3421126,-99.18175024,San Francisco Culhuacán - Ciudad Universitaria,STE,San Francisco Culhuacán - Ciudad Universitaria
+17771,,CALZ. MÉXICO - TACUBA_1,Rosario Chapultepec,19.45688103,-99.18037534,Metro El Rosario - Metro Chapultepec,STE,Metro El Rosario - Metro Chapultepec
+18117,,CENTRAL,EJE Central,19.34230574,-99.14764166,Central de Autobuses del Norte - Central de Autobuses del Sur,STE,Corredor Cero Emisiones Eje Central
+17893,,AV. VALLE DEL YANG TSE,San Felipe Metro Hidalgo,19.49497501,-99.06541357,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+18070,,C.C.H. VALLEJO,EJE Central,19.48409948,-99.1422294,Central de Autobuses del Norte - Central de Autobuses del Sur,STE,Corredor Cero Emisiones Eje Central
+18187,,AV. OTHÓN DE MENDIZABAL,Circuitio Politecnico,19.50468593,-99.15030185,Terminal Zacatenco,STE,Circuito Politécnico
+36074,,CUADRANTE SAN FRANCISCO,San Francisco,19.34453284,-99.16448593,Ciudad Universitaria - San Francisco Culhuacán,STE,San Francisco Culhuacán - Ciudad Universitaria
+18095,,DR. NAVARRO,EJE Central,19.42089875,-99.14334969,Central de Autobuses del Norte - Central de Autobuses del Sur,STE,Corredor Cero Emisiones Eje Central
+18082,,CHOPIN_1,EJE Central,19.46112557,-99.13774121,Central de Autobuses del Norte - Central de Autobuses del Sur,STE,Corredor Cero Emisiones Eje Central
+17692,,DARWIN,Rosario Chapultepec,19.42893719,-99.17998752,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+15142,,CONGRESO DE LA UNIÓN_1_4,,19.41359491,-99.12201157,Metro Chapultepec - Metro Velódromo,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+17900,,AV. AQUILES SERDÁN,Rosario Puerto Aereo,19.5066549,-99.2083776,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+18015,,AV. DEL ROSARIO,Rosario Puerto Aereo,19.50165899,-99.20419335,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+17791,,EDO. DE OAXACA,San Felipe Metro Hidalgo,19.48509718,-99.07018475,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+18173,,EDIF. 10,11 Y 12 ESIACircuitio Politecnico,19.50331594,-99.13481194,Terminal Zacatenco,STE,Circuito Politécnico
+17792,,MORELOS_1_4,San Felipe Metro Hidalgo,19.4838137,-99.07067956,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+18129,,NICOLÁS SAN JUAN,EJE 7,19.3709723,-99.16667461,Metro Mixcoac - San Andrés Tetepilco,STE,Corredor Cero Emisiones Eje 7 - 7A Sur
+18183,,MONTEVIDEO_1_2,Circuitio Politecnico,19.49359422,-99.14655158,Terminal Zacatenco,STE,Circuito Politécnico
+18145,,TERMINAL SAN ANDRÉS TETEPILCO,EJE 7,19.36638803,-99.13327947,Metro Mixcoac - San Andrés Tetepilco,STE,Corredor Cero Emisiones Eje 7 - 7A Sur
+17944,,TRANSVAAL_1,Rosario Puerto Aereo,19.44294218,-99.08805825,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17801,,TLACOTALPAN_1_2,San Felipe Metro Hidalgo,19.47367087,-99.08107347,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+17696,,THIERS_1,Rosario Chapultepec,19.43694655,-99.18324322,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+15084,,TEXTITLÁN,,19.31255796,-99.14057209,Tasqueña - Xochimilco,STE,Tasqueña - Xochimilco
+18028,,TERMINAL CENTRAL DE AUTOBUSES DEL SUR,EJE Central,19.34106639,-99.13920087,Central de Autobuses del Sur - Central de Autobuses del Norte,STE,Corredor Cero Emisiones Eje Central
+17904,,RAFAEL ALDUCÍN,Rosario Puerto Aereo,19.49587405,-99.19931173,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17856,,TALISMÁN_1_3,San Felipe Metro Hidalgo,19.47794475,-99.11967435,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+18149,,RUMANIA,EJE 7,19.36865144,-99.14598119,San Andrés Tetepilco - Metro Mixcoac,STE,Corredor Cero Emisiones Eje 7 - 7A Sur
+15149,,RADAMÉS TREVIÑO,,19.41140713,-99.10410361,Metro Chapultepec - Metro Velódromo,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+15125,,QUERÉTARO,,19.41441431,-99.16374952,Metro Chapultepec - Metro Velódromo,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+17770,,J. SÁNCHEZ TRUJILLO,Rosario Chapultepec,19.45934726,-99.1787503,Metro El Rosario - Metro Chapultepec,STE,Metro El Rosario - Metro Chapultepec
+17781,,HORACIO_1,Rosario Chapultepec,19.43333887,-99.18202548,Metro El Rosario - Metro Chapultepec,STE,Metro El Rosario - Metro Chapultepec
+18063,,MANUEL GONZÁLEZ_1_3,EJE Central,19.4539704,-99.13825354,Central de Autobuses del Sur - Central de Autobuses del Norte,STE,Corredor Cero Emisiones Eje Central
+17810,,JOSÉ DE LA LUZ ROSAS,San Felipe Metro Hidalgo,19.48067614,-99.10140165,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+18058,,MADERO,EJE Central,19.43392434,-99.14082842,Central de Autobuses del Sur - Central de Autobuses del Norte,STE,Corredor Cero Emisiones Eje Central
+18195,,MANUEL DE ANDA Y BARREDO,Circuitio Politecnico,19.50350734,-99.13597086,Terminal Zacatenco,STE,Circuito Politécnico
+15100,,LA VIGA_1_3,,19.41351395,-99.12768697,Metro Velódromo - Metro Chapultepec,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+18106,,EUGENIA_1,EJE Central,19.38421067,-99.14747,Central de Autobuses del Norte - Central de Autobuses del Sur,STE,Corredor Cero Emisiones Eje Central
+18198,,FTE. EDIF. 4 ESIME,Circuitio Politecnico,19.49959994,-99.13630277,Terminal Zacatenco,STE,Circuito Politécnico
+15075,,FRANCISCO GOITIA,,19.26069685,-99.11122662,Tasqueña - Xochimilco,STE,Tasqueña - Xochimilco
+17957,,PLAZA AEROPUERTO,Rosario Puerto Aereo,19.42083323,-99.09598231,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17877,,PUERTO TLACOTALPAN,San Felipe Metro Hidalgo,19.47353058,-99.08117748,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+15122,,PARQUE ESPAÑA_1,,19.41676324,-99.17089331,Metro Chapultepec - Metro Velódromo,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+17949,,NORTE 25  I,Rosario Puerto Aereo,19.43252821,-99.09401407,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17952,,NORTE 17,Rosario Puerto Aereo,19.42892049,-99.09600081,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+18124,,OSO,EJE 7,19.3735735,-99.17866945,Metro Mixcoac - San Andrés Tetepilco,STE,Corredor Cero Emisiones Eje 7 - 7A Sur
+18159,,20 DE NOVIEMBRE_1,EJE 7,19.37195932,-99.17059522,San Andrés Tetepilco - Metro Mixcoac,STE,Corredor Cero Emisiones Eje 7 - 7A Sur
+35637,,22 DE FEBRERO_1_3,,19.47774928,-99.18529987,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17813,,CASA DEL PEREGRINO JUAN DIEGO,San Felipe Metro Hidalgo,19.48338926,-99.10952373,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+18118,,CERRO HUITZILAC,EJE Central,19.34156674,-99.14150476,Central de Autobuses del Norte - Central de Autobuses del Sur,STE,Corredor Cero Emisiones Eje Central
+17996,,CALZ. CAMARONES,Rosario Puerto Aereo,19.46865579,-99.17565465,Metro Blvd. Puerto Aéreo - Metro El Rosario,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+36111,,AV. UNIVERSIDAD,San Francisco,19.3469439,-99.18003955,San Francisco Culhuacán - Ciudad Universitaria,STE,San Francisco Culhuacán - Ciudad Universitaria
+17768,,BEGONIAS,Rosario Chapultepec,19.46347248,-99.17773806,Metro El Rosario - Metro Chapultepec,STE,Metro El Rosario - Metro Chapultepec
+18105,,CUMBRES DE MALTRATA,EJE Central,19.38707479,-99.14714813,Central de Autobuses del Norte - Central de Autobuses del Sur,STE,Corredor Cero Emisiones Eje Central
+18169,,EDIF. 2 ESIME,Circuitio Politecnico,19.49834243,-99.13633133,Terminal Zacatenco,STE,Circuito Politécnico
+18174,,EDIF. 11 ESIA,Circuitio Politecnico,19.5040156,-99.13692825,Terminal Zacatenco,STE,Circuito Politécnico
+18170,,EDIF. 4 ESIME,Circuitio Politecnico,19.49957687,-99.1360946,Terminal Zacatenco,STE,Circuito Politécnico
+15119,,DURANGO_1_2,,19.41839648,-99.17181939,Metro Velódromo - Metro Chapultepec,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+17902,,HACIENDA DE SOTELO,Rosario Puerto Aereo,19.50223545,-99.20515895,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17815,,GRAL. MARTÍN CARRERA,San Felipe Metro Hidalgo,19.48670351,-99.11288388,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+18181,,FRENTE A EDIFICIOS UNIDAD PATERA,Circuitio Politecnico,19.50433734,-99.15110708,Terminal Zacatenco,STE,Circuito Politécnico
+17936,,AV. ING. EDUARDO MOLINA_1,Rosario Puerto Aereo,19.461413,-99.1057992,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+18031,,AMÉRICA,EJE Central,19.34523424,-99.14945085,Central de Autobuses del Sur - Central de Autobuses del Norte,STE,Corredor Cero Emisiones Eje Central
+17806,,AV. GRAN CANAL I,San Felipe Metro Hidalgo,19.47612917,-99.09032137,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+17931,,F.C. HIDALGO,Rosario Puerto Aereo,19.46586391,-99.11856651,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17920,,F.C. CENTRAL,Rosario Puerto Aereo,19.472067,-99.16379351,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+18138,,EJE CENTRAL_1_7,EJE 7,19.36548259,-99.15099365,Metro Mixcoac - San Andrés Tetepilco,STE,Corredor Cero Emisiones Eje 7 - 7A Sur
+18055,,IZAZAGA,EJE Central,19.42631116,-99.14203369,Central de Autobuses del Sur - Central de Autobuses del Norte,STE,Corredor Cero Emisiones Eje Central
+18163,,JEREZ,EJE 7,19.37439024,-99.18169673,San Andrés Tetepilco - Metro Mixcoac,STE,Corredor Cero Emisiones Eje 7 - 7A Sur
+17777,,LAGUNA DE MAYRÁN_1,Rosario Chapultepec,19.44185485,-99.18341708,Metro El Rosario - Metro Chapultepec,STE,Metro El Rosario - Metro Chapultepec
+17700,,LAGO BOLSENA,Rosario Chapultepec,19.44533977,-99.18266353,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+15077,,LA NORIA_1,,19.26795816,-99.12574139,Tasqueña - Xochimilco,STE,Tasqueña - Xochimilco
+17840,,PASEO DE LA REFORMA (SHCP),San Felipe Metro Hidalgo,19.43738828,-99.14597494,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+17976,,NORTE 70,Rosario Puerto Aereo,19.46272501,-99.10881311,Metro Blvd. Puerto Aéreo - Metro El Rosario,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17937,,NORTE 84,Rosario Puerto Aereo,19.46034071,-99.10272002,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+18154,,PARQUE DE LOS VENADOS_1,EJE 7,19.37067878,-99.15837049,San Andrés Tetepilco - Metro Mixcoac,STE,Corredor Cero Emisiones Eje 7 - 7A Sur
+18002,,NUEVA JERUSALÉN,Rosario Puerto Aereo,19.48274593,-99.18303609,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+18120,,PATRIOTISMO_1_3,EJE 7,19.37563824,-99.18693066,Metro Mixcoac - San Andrés Tetepilco,STE,Corredor Cero Emisiones Eje 7 - 7A Sur
+17844,,MATAMOROS (COMONFORT),San Felipe Metro Hidalgo,19.44687605,-99.13597414,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+17837,,MOCTEZUMA_1_2,San Felipe Metro Hidalgo,19.44309012,-99.14055128,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+17691,,MARIANO ESCOBEDO,Rosario Chapultepec,19.42679949,-99.17903102,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+15115,,MONTERREY_1_4,,19.41432574,-99.16299409,Metro Velódromo - Metro Chapultepec,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+18039,,SANTA CRUZ,EJE Central,19.37271407,-99.14934765,Central de Autobuses del Sur - Central de Autobuses del Norte,STE,Corredor Cero Emisiones Eje Central
+18137,,TOKIO,EJE 7,19.36588112,-99.15347815,Metro Mixcoac - San Andrés Tetepilco,STE,Corredor Cero Emisiones Eje 7 - 7A Sur
+15121,,SONORA_1_5,,19.41940609,-99.1730233,Metro Chapultepec - Metro Velódromo,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+17850,,RÍO CONSULADO_1_3,San Felipe Metro Hidalgo,19.46071848,-99.12642813,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+17873,,PUERTO DE COZUMEL,San Felipe Metro Hidalgo,19.47562988,-99.08966916,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+18018,,RENACIMIENTO_1,Rosario Puerto Aereo,19.50614925,-99.20791626,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+36071,,ZARAGOZA_1_4,San Francisco,19.34567675,-99.17412043,Ciudad Universitaria - San Francisco Culhuacán,STE,San Francisco Culhuacán - Ciudad Universitaria
+18130,,ZAPATA_1_2,EJE 7,19.37060231,-99.16528219,Metro Mixcoac - San Andrés Tetepilco,STE,Corredor Cero Emisiones Eje 7 - 7A Sur
+36104,,PUENTE SAN FRANCISCO_1,San Francisco,19.34448023,-99.16181834,San Francisco Culhuacán - Ciudad Universitaria,STE,San Francisco Culhuacán - Ciudad Universitaria
+36103,,ASIA,San Francisco,19.34407674,-99.15872276,San Francisco Culhuacán - Ciudad Universitaria,STE,San Francisco Culhuacán - Ciudad Universitaria
+17715,,22 DE FEBRERO_1_2,Rosario Chapultepec,19.47745674,-99.18424839,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+18079,,LA RAZA_1_6,EJE Central,19.46957323,-99.13675092,Central de Autobuses del Norte - Central de Autobuses del Sur,STE,Corredor Cero Emisiones Eje Central
+17853,,HENRY FORD,San Felipe Metro Hidalgo,19.47098554,-99.12240436,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+36067,,CERRO ACASULCO,San Francisco,19.3418454,-99.1815456,Ciudad Universitaria - San Francisco Culhuacán,STE,San Francisco Culhuacán - Ciudad Universitaria
+17901,,EDIFICIO. 26-B,Rosario Puerto Aereo,19.50446036,-99.20701504,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+36108,,ESCONDIDA,San Francisco,19.34568678,-99.17181521,San Francisco Culhuacán - Ciudad Universitaria,STE,San Francisco Culhuacán - Ciudad Universitaria
+17883,,CONST. DE LA REPÚBLICA_1,San Felipe Metro Hidalgo,19.48233998,-99.07591176,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+17793,,CONST. DE LA REPÚBLICA,San Felipe Metro Hidalgo,19.48180676,-99.07143722,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+18094,,DR. PASCUA,EJE Central,19.42243887,-99.14319102,Central de Autobuses del Norte - Central de Autobuses del Sur,STE,Corredor Cero Emisiones Eje Central
+18153,,DIVISIÓN DEL NORTE_1_3,EJE 7,19.37036501,-99.15640712,San Andrés Tetepilco - Metro Mixcoac,STE,Corredor Cero Emisiones Eje 7 - 7A Sur
+18155,,CUAUHTÉMOC_1_6,EJE 7,19.37092803,-99.16069607,San Andrés Tetepilco - Metro Mixcoac,STE,Corredor Cero Emisiones Eje 7 - 7A Sur
+15130,,DR. LUCIO_1,,19.41491186,-99.15312414,Metro Chapultepec - Metro Velódromo,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+17854,,VICTORIA_1_4,San Felipe Metro Hidalgo,19.4730362,-99.12158301,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+15080,,XOMALI_1,,19.28883444,-99.14692548,Tasqueña - Xochimilco,STE,Tasqueña - Xochimilco
+17865,,METRO MARTÍN CARRERA_1,San Felipe Metro Hidalgo,19.48265506,-99.10691311,Metro Hidalgo - San Felipe de Jesús,STE,San Felipe de Jesús - Metro Hidalgo
+18166,,MIXCOAC_1_2,EJE 7,19.37609182,-99.18815209,San Andrés Tetepilco - Metro Mixcoac,STE,Corredor Cero Emisiones Eje 7 - 7A Sur
+18125,,MORAS,EJE 7,19.37253478,-99.17397322,Metro Mixcoac - San Andrés Tetepilco,STE,Corredor Cero Emisiones Eje 7 - 7A Sur
+17984,,REAL DEL MONTE_1,Rosario Puerto Aereo,19.47004159,-99.13167715,Metro Blvd. Puerto Aéreo - Metro El Rosario,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+36117,,RETORNO COPILCO,San Francisco,19.33808739,-99.18682259,San Francisco Culhuacán - Ciudad Universitaria,STE,San Francisco Culhuacán - Ciudad Universitaria
+18077,,PONIENTE 112_1,EJE Central,19.47724842,-99.14038744,Central de Autobuses del Norte - Central de Autobuses del Sur,STE,Corredor Cero Emisiones Eje Central
+18068,,PONIENTE 112,EJE Central,19.47635347,-99.13913819,Central de Autobuses del Sur - Central de Autobuses del Norte,STE,Corredor Cero Emisiones Eje Central
+17909,,REY MAXTLA,Rosario Puerto Aereo,19.48596232,-99.19043899,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+36113,,OXTOPULCO,San Francisco,19.3437482,-99.18142482,San Francisco Culhuacán - Ciudad Universitaria,STE,San Francisco Culhuacán - Ciudad Universitaria
+17797,,CAMINO DE LIGA,San Felipe Metro Hidalgo,19.47918306,-99.07783539,San Felipe de Jesús - Metro Hidalgo,STE,San Felipe de Jesús - Metro Hidalgo
+17974,,AV. EDUARDO MOLINA_1,Rosario Puerto Aereo,19.46133879,-99.10492278,Metro Blvd. Puerto Aéreo - Metro El Rosario,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17739,,AZTACALCO,Rosario Chapultepec,19.50883049,-99.19782115,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+15123,,CACAHUAMILPA,,19.41655397,-99.16768841,Metro Chapultepec - Metro Velódromo,STE,Corredor Cero Emisiones Eje 2 - 2a sur
+17906,,METRO AQUILES SERDÁN_1_2,Rosario Puerto Aereo,19.49011925,-99.19520259,Metro El Rosario - Metro Blvd. Puerto Aéreo,STE,Metro Blvd. Puerto Aéreo - Metro El Rosario
+17776,,LAGUNA DE TÉRMINOS_1,Rosario Chapultepec,19.44377231,-99.18313185,Metro El Rosario - Metro Chapultepec,STE,Metro El Rosario - Metro Chapultepec
+17778,,LAGO ALBERTO_1,Rosario Chapultepec,19.43997504,-99.18368103,Metro El Rosario - Metro Chapultepec,STE,Metro El Rosario - Metro Chapultepec
+17704,,MAR ROJO,Rosario Chapultepec,19.45313802,-99.18137312,Metro Chapultepec - Metro El Rosario,STE,Metro El Rosario - Metro Chapultepec
+18069,,TERMINAL CENTRAL DE AUTOBUSES DEL NORTE,EJE Central,19.47957606,-99.14042257,Central de Autobuses del Sur - Central de Autobuses del Norte,STE,Corredor Cero Emisiones Eje Central
+15074,,TERMINAL XOCHIMILCO,,19.2593932,-99.10787597,Tasqueña - Xochimilco,STE,Tasqueña - Xochimilco
