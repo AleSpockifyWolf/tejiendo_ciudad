@@ -4,8 +4,8 @@ const ResultCard = (props) => {
   return (
     <div className="result-card">
       <section className="result-card-row">
-        <span className="result-card-name">ESTACIÓN DE METRO - </span>
-        <span className="result-card-name">CHILPANCINGO</span>
+        <span className="result-card-name">{props.type} - </span>
+        <span className="result-card-name">{props.Estacion}</span>
       </section>
       <section className="result-card-row">
         <span className="result-card-extra text">Linea 9</span>
