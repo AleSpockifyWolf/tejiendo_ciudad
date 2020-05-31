@@ -14,11 +14,12 @@ class Container extends Component {
 
   // Component lyfecycles
 
-  componentDidMount = (payload) => {
+  componentDidMount = () => {
     axios
       .post("http://localhost/2020/tejiendo_ciudad/data/index.php/api/place")
       .then((res) => {
-        this.setState({ places: payload });
+        //debugger
+        this.setState({ places: res.data });
       });
   };
 
