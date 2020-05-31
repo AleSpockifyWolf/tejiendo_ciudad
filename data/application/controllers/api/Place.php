@@ -46,14 +46,14 @@ class Place extends REST_Controller {
 	public function index_get($id = 0) {
 		if(!empty($id)){
 			/*SELECT tdt_accesibilidad->'type' as "type", tdt_accesibilidad->'name' as "Estacion",
-			tdt_accesibilidad->'latitude' as "latitud", tdt_accesibilidad->'longitude' as "longitud",
+			tdt_accesibilidad->'latitud' as "latitud", tdt_accesibilidad->'longitud' as "longitud",
 			tdt_accesibilidad->'services' as "Servicios"
 			FROM s_busqueda.tb_transporte
 			WHERE tdt_accesibilidad->>'type' like '%Metro%' AND
 			tdt_accesibilidad->>'name' like 'A%' AND
 			tdt_accesibilidad->>'name' like '%random_text%'; */
 			$this->db->select('tdt_accesibilidad->>\'type\' as "type", tdt_accesibilidad->>\'name\' as "Estacion",
-			tdt_accesibilidad->>\'latitude\' as "latitud", tdt_accesibilidad->>\'longitude\' as "longitud",
+			tdt_accesibilidad->>\'latitud\' as "latitud", tdt_accesibilidad->>\'longitud\' as "longitud",
 			regexp_replace(tdt_accesibilidad->>\'services\', E\'[\\n\\r]+\', \'\', \'g\' ) as "Servicios"');
 			$this->db->where('tdt_accesibilidad->>\'type\' ilike \'%'.$id.'%\'', null, false);
 			//$data = $this->db->get("s_busqueda.tb_transporte")->result_array();
@@ -77,7 +77,7 @@ class Place extends REST_Controller {
 		$input = $this->input->post();
 
 		$this->db->select('tdt_accesibilidad->>\'type\' as "type", tdt_accesibilidad->>\'name\' as "Estacion",
-		tdt_accesibilidad->>\'latitude\' as "latitud", tdt_accesibilidad->>\'longitude\' as "longitud",
+		tdt_accesibilidad->>\'latitud\' as "latitud", tdt_accesibilidad->>\'longitud\' as "longitud",
 		regexp_replace(tdt_accesibilidad->>\'services\', E\'[\\n\\r]+\', \'\', \'g\' ) as "Servicios"');
 
 		if(isset($input['tipo']) && !empty($input['tipo'])) {
@@ -89,11 +89,11 @@ class Place extends REST_Controller {
 		}
 
 		if(isset($input['latitud']) && !empty($input['latitud'])){
-			$this->db->where('tdt_accesibilidad->>\'latitude\' ilike \'%'.$input['latitud'].'%\'', null, false);
+			$this->db->where('tdt_accesibilidad->>\'latitud\' ilike \'%'.$input['latitud'].'%\'', null, false);
 		}
 
 		if(isset($input['longitud']) && !empty($input['longitud'])){
-			$this->db->where('tdt_accesibilidad->>\'longitude\' ilike \'%'.$input['longitud'].'%\'', null, false);
+			$this->db->where('tdt_accesibilidad->>\'longitud\' ilike \'%'.$input['longitud'].'%\'', null, false);
 		}
 
 		if(isset($input['orden']) && !empty($input['orden'])){
