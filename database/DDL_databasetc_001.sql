@@ -1,4 +1,4 @@
-Create database _db_tc_001;
+Create database db_tc_001;
 
 CREATE SCHEMA s_registro
     AUTHORIZATION postgres;

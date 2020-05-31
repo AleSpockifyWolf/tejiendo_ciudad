@@ -13,8 +13,8 @@
         "escaleras_electricas":{"evaluacion":"1.0","activo":"1","Comentarios":"loremipsum"},
         "placas_guias":{"evaluacion":"1.0","activo":"1","Comentarios":"loremipsum"}
     }}'::json),
-;
 
+;
 */
 insert into s_busqueda.tb_transporte(tdt_accesibilidad) values 
 ('{"type": "Metro", 
