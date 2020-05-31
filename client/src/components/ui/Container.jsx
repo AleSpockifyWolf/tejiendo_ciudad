@@ -18,7 +18,6 @@ class Container extends Component {
     axios
       .post("http://localhost/2020/tejiendo_ciudad/data/index.php/api/place")
       .then((res) => {
-        //debugger
         this.setState({ places: res.data });
       });
   };
@@ -32,7 +31,21 @@ class Container extends Component {
             this.state.places === null ? (
               <p>no data</p>
             ) : (
-              this.state.places.map((place) => <ResultCard key={place._id} />)
+              this.state.places.map((place) => (
+                <ResultCard
+                  key={place._id}
+                  type={place.type}
+                  Estacion={place.Estacion}
+                  rampas={place.Servicios.rampas.activo}
+                  pasamanos={place.Servicios.pasamanos.activo}
+                  banos={place.Servicios.wc.activo}
+                  iluminacion={place.Servicios.iluminacion.activo}
+                  puentes={place.Servicios.puente_peatonal.activo}
+                  elevadores={place.Servicios.elevadores.activo}
+                  escaleras={place.Servicios.escaleras_electricas.activo}
+                  placas={place.Servicios.placas_guias.activo}
+                />
+              ))
             )
           }
         />
