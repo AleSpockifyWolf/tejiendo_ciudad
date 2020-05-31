@@ -1,3 +1,4 @@
+
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
@@ -63,7 +64,6 @@ class Place extends REST_Controller {
 		}else{
 			$data = $this->db->get("s_busqueda.tb_transporte")->result();
 		}
-
 		$this->response($data, REST_Controller::HTTP_OK);
 	}
 
@@ -94,6 +94,11 @@ class Place extends REST_Controller {
 
 		if(isset($input['longitud']) && !empty($input['longitud'])){
 			$this->db->where('tdt_accesibilidad->>\'longitude\' ilike \'%'.$input['longitud'].'%\'', null, false);
+		}
+
+		if(isset($input['orden']) && !empty($input['orden'])){
+			$order = ($input['orden'] == 'tipo') ? 'tdt_accesibilidad->>\'type\'' : 'tdt_accesibilidad->>\'name\'';
+			$this->db->order_by($order);
 		}
 		
 		$data = $this->db->get("s_busqueda.tb_transporte")->result_array();
