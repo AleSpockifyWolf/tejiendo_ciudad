@@ -33,6 +33,11 @@ class Container extends Component {
             ) : (
               this.state.places.map((place) => (
                 <ResultCard
+                  className={
+                    this.state.typeFilter === "none" || place.type
+                      ? "result-card"
+                      : "result-card-hidden"
+                  }
                   key={place._id}
                   type={place.type}
                   Estacion={place.Estacion}
