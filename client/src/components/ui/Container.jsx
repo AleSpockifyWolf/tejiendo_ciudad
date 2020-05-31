@@ -5,6 +5,7 @@ import axios from "axios";
 
 import Map from "./map/Map";
 import MenuBar from "./menu/MenuBar";
+import ResultCard from "../common/cards/ResultCard";
 
 class Container extends Component {
   state = {
@@ -13,18 +14,27 @@ class Container extends Component {
 
   // Component lyfecycles
 
-  /*componentDidMount = (payload) => {
+  componentDidMount = (payload) => {
     axios
       .post("http://localhost/2020/tejiendo_ciudad/data/index.php/api/place")
       .then((res) => {
-        this.setState((places = payload));
+        this.setState({ places: payload });
       });
-  };*/
+  };
 
   render() {
     return (
       <div className="container">
-        <MenuBar places={this.state.places} />
+        <MenuBar
+          places={this.state.places}
+          cards={
+            this.state.places === null ? (
+              <p>no data</p>
+            ) : (
+              this.state.places.map((place) => <ResultCard key={place._id} />)
+            )
+          }
+        />
         <Map />
       </div>
     );
