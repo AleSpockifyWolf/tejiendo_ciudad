@@ -74,11 +74,11 @@ $active_group = 'default';
 $query_builder = TRUE;
 
 $db['default'] = array(
-	'dsn'	=> 'pgsql:host=localhost;port=5432;dbname=tejiendo_ciudad',
+	'dsn'	=> 'pgsql:host=localhost;port=5432;dbname=_db_tc_001',
 	'hostname' => 'localhost',
 	'username' => 'tejiendo',
 	'password' => 'tejiendo',
-	'database' => 'tejiendo_ciudad',
+	'database' => '_db_tc_001',
 	'dbdriver' => 'pdo',
 	'port' => '',
 	'dbprefix' => '',
