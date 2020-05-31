@@ -8,7 +8,7 @@ import FieldHeading from "../../common/headings/FieldHeading";
 import SimpleBlackButton from "../../common/buttons/SimpleBlackButton";
 import ResultCard from "../../common/cards/ResultCard";
 
-const MenuBar = () => {
+const MenuBar = (props) => {
   return (
     <div className="menubar">
       <section className="menubar-filters">
@@ -17,53 +17,18 @@ const MenuBar = () => {
         <SearchBar />
         <FieldHeading text="Búsqueda por criterio" />
         <nav className="menubar-filter-buttons">
-          <SimpleBlackButton text="Alfabético" />
-          <SimpleBlackButton text="Tipo" />
+          <SimpleBlackButton onClick={props.onAlphaClick} text="Alfabético" />
+          <SimpleBlackButton onClick={props.onTypeClick} text="Tipo" />
         </nav>
       </section>
       <section className="menubar-results">
         <FieldHeading text="Resultados de la búsqueda" />
         <div className="menubar-results-list">
-          <ResultCard
-            rampas="2"
-            pasamanos="1"
-            banos="3"
-            iluminacion="5"
-            puentes="3"
-            elevadores="2"
-            escaleras="4"
-            placas="1"
-          />
-          <ResultCard
-            rampas="2"
-            pasamanos="1"
-            banos="3"
-            iluminacion="5"
-            puentes="3"
-            elevadores="2"
-            escaleras="4"
-            placas="1"
-          />
-          <ResultCard
-            rampas="2"
-            pasamanos="1"
-            banos="3"
-            iluminacion="5"
-            puentes="3"
-            elevadores="2"
-            escaleras="4"
-            placas="1"
-          />
-          <ResultCard
-            rampas="2"
-            pasamanos="1"
-            banos="3"
-            iluminacion="5"
-            puentes="3"
-            elevadores="2"
-            escaleras="4"
-            placas="1"
-          />
+          {props.places === null ? (
+            <p>no data</p>
+          ) : (
+            props.places.map((place) => <ResultCard key={place._id} />)
+          )}
         </div>
       </section>
     </div>
