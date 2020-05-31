@@ -96,8 +96,10 @@ class Place extends REST_Controller {
 			$this->db->where('tdt_accesibilidad->>\'longitude\' ilike \'%'.$input['longitud'].'%\'', null, false);
 		}
 		
-		//$data = $this->db->get("s_busqueda.tb_transporte")->result_array();
 		$data = $this->db->get("s_busqueda.tb_transporte")->result_array();
+		foreach ($data as $key => $value) {
+			$data[$key]['Servicios'] = json_decode($value['Servicios']);
+		}
 
 		$this->response($data, REST_Controller::HTTP_OK);
 	}
